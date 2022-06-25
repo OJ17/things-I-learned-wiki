@@ -1,0 +1,44 @@
+---
+sidebar_position: 6
+---
+
+# Nootropics
+
+Summary: 
+
+Nootropics are billed as cognitive enhancers. There are a few supplements that work
+but for the most part you'd be better off spending that same energy ensuring you have all the basics down such as 
+sleep, exercise, socialising, and nutrition first.
+
+
+
+For some people Caffeine + L-theanine works well.
+
+Green tea (Has natural source of L-theanine)
+
+Nicotine patches, gum, or vaping (vaping is less healthy) 
+(NOT TOBACCO)
+
+Modafinil - Very useful for those dealing with fatigue or exhaustion.
+Used by military. Available to buy online with Ethereum.
+
+
+
+Conclusion:
+
+Focus on sleep, exercise, and work first.
+
+Modafinil is a standout. I am currently doing more research but initial results are promising.
+
+Depending on your tolerance for caffeine then drinking a cup or two of green tea on a morning can be 
+really useful. Of course, it may cause sleep issues for those sensitive to it.
+
+
+Wiki:
+
+
+
+books:
+
+https://www.goodreads.com/book/show/34466963-why-we-sleep
+
