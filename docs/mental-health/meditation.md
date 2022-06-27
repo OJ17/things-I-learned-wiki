@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # meditation
 
-## Summary: 
+### Summary: 
 Increases gray matter in pre-frontal cortex. Makes you more calm, less stressed,
 more able to control your own behaviour, 
 
@@ -13,7 +13,7 @@ will far succeed relentless thought.
 
 
 
-## Process:
+### Process:
 
 If you are a beginner then using an app such as `calm` or `headspace` on android / iOS 
 is a good place to start. And try to build up a good practice there by doing the daily meditation for 10 or 20 mintutes.
@@ -25,7 +25,7 @@ to arrive.
 (There are possibly other free apps such as Insight Timer which are appreantly good)
 
 
-## Wiki:
+### Wiki:
 
 https://en.wikipedia.org/wiki/Effects_of_meditation
 

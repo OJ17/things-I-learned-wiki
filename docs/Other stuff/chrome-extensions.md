@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Chrome extensions:
+## Chrome extensions:
 
 [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=en)
 

@@ -4,10 +4,7 @@ sidebar_position: 6
 
 # Interesting articles to read
 
-Speculative bitcoin Adoption / price theory
-
-Metaverse:
-
+[Speculative bitcoin Adoption / price theory](https://medium.com/@mcasey0827/speculative-bitcoin-adoption-price-theory-2eed48ecf7da)
 
 Cool article about Web3 and how NFTs interact with the blockchain (07/01/2022)
 [web3-first-impressions](https://moxie.org/2022/01/07/web3-first-impressions.html)

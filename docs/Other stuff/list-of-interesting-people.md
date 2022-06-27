@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # List of interesting people
 
-Philosophers:
+### Philosophers:
 ```
 Peter Singer
 John Stuart Mill
@@ -48,7 +48,7 @@ Jean Jacques Rousseau
 Nick Bostrom
 ```
 
-Physicists:
+### Physicists:
 
 ```
 Albert Einstein 
@@ -71,7 +71,7 @@ Robert J. Oppenheimer
 Edwarad Witten 
 ```
 
-Biologists:
+### Biologists:
 ```
 J.B.S Haldane 
 Richard Dawkins 
@@ -79,7 +79,7 @@ Rosalind Franklin
 Louis Pasteur
 ```
 
-Psychologists:
+### Psychologists:
 
 ```
 Daniel Kahnemann 
@@ -96,12 +96,12 @@ William James
 Jordan Peterson
 ```
 
-Chemists:
+### Chemists:
 ```
 Marie Curie
 ```
 
-Science popularisers:
+### Science Popularisers:
 ```
 Carl Sagan 
 Richard Feynman 
@@ -113,7 +113,7 @@ Rhonda Patrick (Joe Rogan Podcast, https://www.youtube.com/c/FoundMyFitness)
 
 ```
 
-Political Theorists:
+### Political Theorists:
 ```
 Robert A. Dahl
 Baron de Montesquieu 
@@ -123,13 +123,13 @@ Iris Marion Young
 Antonio Gramsci 
 ```
 
-Sociologists:
+### Sociologists:
 ```
 John R. Searle
 Auguste Comte
 ```
 
-Mathematicians:
+### Mathematicians:
 ```
 Alan Turng 
 Frank Ramsey 
@@ -141,7 +141,7 @@ Terence Tao
 Paul Erdős
 ```
 
-Authors:
+### Authors:
 ```
 Aldous Huxley
 Robert Pirsig
@@ -189,13 +189,13 @@ Truman capote
 C.S. Lewis 
 ```
 
-Chemists:
+### Chemists:
 ```
 Alexander Shulgin 
 Albert Hoffman 
 ```
 
-Academics / Intellectuals:
+### Academics / Intellectuals:
 ```
 Naomi Klein 
 Noam Chomsky  
@@ -229,33 +229,33 @@ Will Kymlicka
 Bryan Magee 
 ```
 
-Economists:
+### Economists:
 ```
 Paul Krugman 
 John Maynard Keynes 
 Ha-Joon Chang 
 ```
 
-Historians:
+### Historians:
 ```
 Howard Zinn 
 Eric Hobsbawm 
 ```
 
-Neuroscientists:
+### Neuroscientists:
 ```
 David Nutt 
 David Eagleman 
 ```
 
-Comedians:
+### Comedians:
 ```
 George Carlin 
 Bill Hicks 
 Doug Stanhope 
 ```
 
-Inventors:
+### Inventors:
 ```
 Jacques Fresco 
 George Washington Carver 
@@ -264,13 +264,13 @@ R. Buckminster Fueller
 Tim berners Lee 
 ```
 
-Poets:
+### Poets:
 ```
 William Wordsworth 
 William Blake 
 ```
 
-Revolutionaries:
+### Revolutionaries:
 ```
 Malcolm X 
 Robert Owen 
@@ -278,7 +278,7 @@ Vladimir Lenin
 Nelson Mandela 
 ```
 
-Various Others:
+### Various Others:
 ```
 Terence McKenna 
 Peter Joseph 
@@ -301,7 +301,7 @@ Leibniz
 John Dewey
 ```
 
-Some people I dislike the ideas of:
+### Some people I dislike the ideas of:
 ```
 Milton Friedman
 Thomas Sowell
@@ -314,13 +314,13 @@ Margaret Thatcher
 Edward Bernays
 ```
 
-People with strange talents:
+### People with strange talents:
 ```
 Mirin Dajo (impales self)
 
 ```
 
-not yet processed list:
+### Not yet processed list:
 ```
 People:
 

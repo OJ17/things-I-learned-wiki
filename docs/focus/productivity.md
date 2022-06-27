@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary:
 
-Use a calendar
+* Use a calendar
 
 The key to being productive is cutting out things that don't matter.
 

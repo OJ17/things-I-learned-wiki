@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# List of interesting stories
+## List of interesting stories
 
 [Killing of Jonbenet Ramsey](https://en.wikipedia.org/wiki/Killing_of_JonBen%C3%A9t_Ramsey)
 
