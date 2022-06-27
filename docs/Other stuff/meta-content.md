@@ -6,11 +6,10 @@ sidebar_position: 6
 
 Websites kind of similar to this one (but better):
 
-Gwern:
-https://www.gwern.net/
+[Gwern](https://www.gwern.net/)
 
-Alicia Sykes:
-https://notes.aliciasykes.com/
+[Alicia Sykes](https://notes.aliciasykes.com/)
+
 
 
 

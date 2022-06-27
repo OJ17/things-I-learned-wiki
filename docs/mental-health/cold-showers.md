@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Cold Showers (Cryotherapy)
 
-Summary: 
+## Summary: 
 
 Cold showers have been shown to improve norepinephrine (adrenaline) 
 and some limited evidence it can improve 
@@ -17,11 +17,7 @@ sauna
 
 
 
-Tools:
-
-
-
-Wiki:
+## Wiki:
 
 
 https://www.youtube.com/watch?v=XaLd5w6zF7A

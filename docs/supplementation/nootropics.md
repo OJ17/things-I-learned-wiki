@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Nootropics
 
-Summary: 
+### Summary: 
 
 Nootropics are billed as cognitive enhancers. There are a few supplements that work
 but for the most part you'd be better off spending that same energy ensuring you have all the basics down such as 
@@ -24,7 +24,7 @@ Used by military. Available to buy online with Ethereum.
 
 
 
-Conclusion:
+### Conclusion:
 
 Focus on sleep, exercise, and work first.
 
@@ -34,11 +34,11 @@ Depending on your tolerance for caffeine then drinking a cup or two of green tea
 really useful. Of course, it may cause sleep issues for those sensitive to it.
 
 
-Wiki:
+### Wiki:
 
 
 
-books:
+### Books:
 
-https://www.goodreads.com/book/show/34466963-why-we-sleep
+[Why we Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 

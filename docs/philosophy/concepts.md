@@ -13,25 +13,25 @@ Ethics:
 utilitarianism / Deontology
 
 
-thought experiments:
+### Thought experiments:
 
-trolley problem
-ship of theseus
+Trolley problem
+Ship of Theseus
 
 
-Paradoxes:
+### Paradoxes:
 
 Xeno's paradox
 
 
-Summary: 
+### Summary:
 
 FMRI scan can predict your behaviour before conscious awareness,
 
 
 
 
-Wiki:
+### Wiki:
 
 
 

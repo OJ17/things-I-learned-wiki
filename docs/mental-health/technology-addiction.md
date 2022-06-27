@@ -9,12 +9,6 @@ now more than ever it is easier to waste time online.
 
 
 
-Wiki:
-
-Chrome extensions such as Leechblock
-
-RescueTime
-
 
 
 

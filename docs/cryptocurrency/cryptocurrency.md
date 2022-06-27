@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Cryptocurrency
 
-Summary:
+## Summary:
 
 Cryptographic currency.
 
@@ -17,11 +17,11 @@ proof of stake
 
 
 
-Wiki:
+## Wiki:
 
 
 
-Articles:
+## Articles:
 
 Web3 & NFT's:
 

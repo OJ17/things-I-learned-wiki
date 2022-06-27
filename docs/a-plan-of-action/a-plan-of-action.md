@@ -4,8 +4,6 @@ sidebar_position: 6
 
 # a plan of action
 
-Summary: 
-
 Putting it all together. 
 
 So it's clear that there a lots of potentially promising things you can do to change your life.

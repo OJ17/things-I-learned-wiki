@@ -12,13 +12,13 @@ Some limited information for N-Back although probably n-back isn't worth it due 
 
 
 
-Wiki:
+## Wiki:
 
 https://en.wikipedia.org/wiki/Method_of_loci
 
 https://en.wikipedia.org/wiki/N-back
 
-books:
+## Books:
 
 Moonwalking with Einstein
 

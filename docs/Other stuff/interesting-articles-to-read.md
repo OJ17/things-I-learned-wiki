@@ -10,17 +10,10 @@ Metaverse:
 
 
 Cool article about Web3 and how NFTs interact with the blockchain (07/01/2022)
-https://moxie.org/2022/01/07/web3-first-impressions.html
+[web3-first-impressions](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 Cool article about the metaverse:
-https://medium.com/@aaronDfrank/how-to-explain-the-metaverse-to-your-grandparents-b6f6acae17ed
-
-Activision buy Blizzard for metaverse plans:
-https://www.polygon.com/22917625/microsoft-activision-blizzard-metaverse-satya-nadella
-
-
-
-
+[How to explain the metaverse to your grandparents](https://medium.com/@aaronDfrank/how-to-explain-the-metaverse-to-your-grandparents-b6f6acae17ed)
 
 
 

@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # other life improvement suggestions
 
-Summary: 
+### Summary: 
 
 Positive affirmations
 
@@ -42,16 +42,16 @@ use an electric toothbrush
 
 
 
-concepts:
+### concepts:
 
 
 
 
-books:
+### books:
 
 
 
-Quotes:
+### Quotes:
 
 
 

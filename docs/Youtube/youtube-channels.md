@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # YouTube Channels
 
-YouTube Channels (sort by most viewed uploads):
+### YouTube Channels (sort by most viewed uploads):
 
 [Bi Phakathi - Guy gives money to extremely poor people](https://www.youtube.com/c/BIPhakathi/videos?view=0&sort=p&flow=grid)
 
@@ -29,7 +29,7 @@ YouTube Channels (sort by most viewed uploads):
 [Rate My Takeaway - A northern guy reviewing takeaways](https://www.youtube.com/c/RateMyTakeaway/videos?view=0&sort=p&flow=grid)
 
 
-Podcasts:
+### Podcasts:
 
 [Ricky Gervias show XFM podcast](https://player.fm/series/the-ricky-gervais-radio-show)
 

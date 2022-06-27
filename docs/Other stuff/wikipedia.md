@@ -10,12 +10,14 @@ List of cognitive biases
 
 List of best selling anime
 
-Wikipedia: List of unusual deaths wikipedia
+[List of unsolved deaths](https://en.wikipedia.org/wiki/List_of_unsolved_deaths)
 
-Wikipedia: list of unsolved murders wikipedia
+[List of unusal deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
+
+
 
 -
 
-(Gerald Cotten)
+
 
 

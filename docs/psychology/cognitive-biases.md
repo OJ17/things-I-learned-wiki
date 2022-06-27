@@ -4,17 +4,17 @@ sidebar_position: 6
 
 # Cognitive biases
 
-Summary: 
+### Summary: 
 
 
 
 
 
-Wiki:
+### Wiki:
 
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
-Books:
+### Books:
 
 
 

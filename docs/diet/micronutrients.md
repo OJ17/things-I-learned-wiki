@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Diet
 
-Summary:
+## Summary:
 
 Eat vegetables every day.
 

@@ -7,17 +7,17 @@ sidebar_position: 6
 Socrates, Plato, Aristotle, Thomas Hobbes, Soren Kierkegaard, 
 Arthur Schopenhauer, Jean-Paul Sartre, Peter Singer
 
-Ethics:
+### Ethics:
 
 Jeremy Bentham,
 John Stuart Mill, 
 
-Distributive justice:
+### Distributive justice:
 
 John Rawls, Robert Nozick
 
 
-Wiki:
+### Wiki:
 
 https://en.wikipedia.org/wiki/Socratic_dialogue#Platonic_dialogues
 

@@ -4,8 +4,6 @@ sidebar_position: 6
 
 # Staying on track
 
-Summary: 
-
 Many people learn these lessons early on, but they quickly forget them,
 and in some cases it might be years before they re-learn them.
 

@@ -4,9 +4,9 @@ sidebar_position: 6
 
 # stoicism
 
-Summary: 
+### Summary: 
 
-Focus on what you can change. Can't change it? ignore it.
+Focus only on what you can change. Can't change it? ignore it.
 
 
 conclusion:

@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # What not to do
 
-Summary:
+### Summary:
 
 This could literally be an endless list. However The key thing here 
 is establishing what things are actually adding value to your life.
@@ -34,7 +34,7 @@ switch (DoesThisGetMeCloserToMyGoals){
 It's really as simple as that. But we aren't robots.
 
 
-Things to avoid:
+### Things to avoid:
 
 * YouTube: Don't watch YouTube except for very specific relevant things. 
 On balance YouTube isn't worth it. It's just not worth it. Can be useful for tutorials, etc. though.

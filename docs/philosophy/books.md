@@ -2,22 +2,22 @@
 sidebar_position: 6
 ---
 
-# Books worth reading
+# Philosophy books worth reading
 
-western Philosophy:
+### Western Philosophy:
 
 Writing about Socrates (The apology, )
 
 The Republic - Plato ("all of western philosophy is a footnote to plato")
 
 
-Ethics:
+### Ethics:
 
 Practical Ethics - Peter Singer
 
 
 
-Wiki:
+### Wiki:
 
 https://en.wikipedia.org/wiki/Socratic_dialogue#Platonic_dialogues
 

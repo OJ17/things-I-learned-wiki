@@ -4,17 +4,19 @@ sidebar_position: 6
 
 # Happiness
 
-Summary:
+## Summary:
 
 
 
 Key rules:
 
-diet, 
-sleep, 
-exercise
+diet,
+sleep,
+exercise (cardio is better),
+socialising
+meditation
 
-Other rules:
+## Other rules:
 
 Don't live inside your own head (important)
 
@@ -24,19 +26,9 @@ Don't feel envious of others
 
 Don't compare yourself to other people
 
+Meditate
 
-
-
-
-
-Wiki:
-
-
-
-Quotes:
-
-
-Tools:
+Start working early in the day
 
 
 

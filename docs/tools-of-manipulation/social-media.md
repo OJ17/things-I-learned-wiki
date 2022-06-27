@@ -4,28 +4,29 @@ sidebar_position: 6
 
 # Social Media
 
-Summary: 
+### Summary: 
 
 
 
 
-Conclusion:
+### Conclusion:
 
 
 
-Wiki:
+### Wiki:
 
 
 
-books:
+### books:
 
-https://www.goodreads.com/book/show/52269471-mindf-ck
+[Mindfuck - Cambridge Analytica](https://www.goodreads.com/book/show/52269471-mindf-ck)
 
-concepts:
+### concepts:
 
-filter-bubbles, 
+filter-bubbles
+Polarization
 
-Documentaries:
+### Documentaries:
 
 The Social Dilemma
 

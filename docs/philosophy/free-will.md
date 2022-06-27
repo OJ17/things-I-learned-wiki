@@ -4,15 +4,15 @@ sidebar_position: 6
 
 # free-will illusion
 
-Summary: 
+### Summary: 
 
 FMRI scan can predict your behaviour before conscious awareness,
 
 
-Wiki:
+### Wiki:
 
 
-Books:
+### Books:
 
 https://www.goodreads.com/book/show/9827912-incognito
 

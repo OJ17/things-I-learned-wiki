@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Habit
 
-Summary:
+### Summary:
 
 Habits, routines, processes.
 
@@ -13,15 +13,15 @@ it gets easier to do things that otherwise might prove difficult.
 
 
 
-concepts:
+### concepts:
 
 
 
-Wiki:
+### Wiki:
 
 
 
-Books:
+### Books:
 
 
 

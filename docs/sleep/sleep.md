@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Sleep
 
-Summary: 
+### Summary: 
 
 Countless well documented health benefits. 
 * Increased energy
@@ -16,7 +16,7 @@ Countless well documented health benefits.
 * Lower stress / cortisol levels
 
 
-Lessons to apply:
+### Lessons to apply:
 
 These are a bit subjective because some people can sleep in loud, bright places without trouble. 
 For most people a quiet, cool dark place is better. 
@@ -30,16 +30,16 @@ For most people a quiet, cool dark place is better.
 
 
 
-Conclusion:
+### Conclusion:
 
 Make sleep a priority. If you can't sleep right do everything you can to fix it.
 If you get one thing right sleep has to be a high candidate.
 
 
-Wiki:
+### Wiki:
 
 
-books:
+### Books:
 
 [Why we sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 

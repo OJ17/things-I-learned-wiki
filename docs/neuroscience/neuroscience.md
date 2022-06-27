@@ -4,22 +4,22 @@ sidebar_position: 6
 
 # Neuroscience
 
-Summary: 
+### Summary: 
 
 
 
 
 
-concepts:
+### concepts:
 
 
 
 
-books:
+### books:
 
 
 
-Quotes:
+### Quotes:
 
 
 

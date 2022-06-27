@@ -6,19 +6,10 @@ sidebar_position: 6
 
 websites that are cool:
 
-Gwern:
-https://www.gwern.net/
+[Yandex](www.yandex.com)
 
-Yandex
+[Our-world-in-data](https://ourworldindata.org/)
 
-https://ourworldindata.org/
-
-12ft.io
-
-Websites:
-https://www.imagetotext.info/
-(actually there may be a better site than this that does the same job
-but the concept is great)
 
 
 

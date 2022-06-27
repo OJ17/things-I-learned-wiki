@@ -107,8 +107,8 @@ Carl Sagan
 Richard Feynman 
 Simon Singh 
 Brian Cox 
-Michael Stevens (vsauce) 
-Derek Muller (Youtube - Veritaseum). 
+Michael Stevens (vsauce)
+Derek Muller (Youtube - Veritaseum)
 Rhonda Patrick (Joe Rogan Podcast, https://www.youtube.com/c/FoundMyFitness)
 
 ```
@@ -136,8 +136,9 @@ Frank Ramsey
 Kurt Godel 
 Andrew Wiles 
 Blaise Pascal 
-Pythagoras 
-Terence Tao 
+Pythagoras
+Terence Tao
+Paul Erdős
 ```
 
 Authors:
@@ -288,7 +289,7 @@ Graham Hancock
 Adam Curtis 
 Immortal Technique
 Judit Polgar
-Kim peek
+Kim Peek
 Steven Patrick Morrisey
 Democritus
 Stanley Kubrick

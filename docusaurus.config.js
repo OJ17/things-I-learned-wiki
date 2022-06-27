@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'things-I-learned-wiki',
   tagline: 'simple, practical advice',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.things-i-learned.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'OJ17', // Usually your GitHub org/user name.
   projectName: 'things-I-learned-wiki', // Usually your repo name.
 
   presets: [
@@ -26,12 +26,6 @@ const config = {
           editUrl: 'https://github.com/OJ17/things-I-learned-wiki',
         },
         blog: false,
-        //     {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -55,7 +49,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'memory/memory',
+            position: 'left',
+            label: 'Random',
+          },
           {
             href: 'https://github.com/OJ17/things-I-learned-wiki',
             label: 'GitHub',
@@ -75,38 +74,17 @@ const config = {
               },
             ],
           },
-          // {
-          //   title: 'About',
-          //   items: [
-          //     // {
-          //     //   label: 'Stack Overflow',
-          //     //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-          //     // },
-          //     // {
-          //     //   label: 'Discord',
-          //     //   href: 'https://discordapp.com/invite/docusaurus',
-          //     // },
-          //     // {
-          //     //   label: 'Twitter',
-          //     //   href: 'https://twitter.com/docusaurus',
-          //     // },
-          //   ],
-          // },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'Blog',
-          //       to: '/blog',
-          //     },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/facebook/docusaurus',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/OJ17',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Things I learned wiki.`,
+        copyright: `© ${new Date().getFullYear()} Oliver Jones. Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -4,25 +4,19 @@ sidebar_position: 6
 
 # Procrastination
 
-Summary:
+## Summary:
 
 Will fuck up your life. Until you can regulate your time you won't go anywhere.
 
 
 
 
-Wiki:
+## Wiki:
 
 
 
-Quotes:
+## Quotes:
 
-
-Tools:
-
-Rescue Time
-LeechBlock
-AdBlock
 
 
 

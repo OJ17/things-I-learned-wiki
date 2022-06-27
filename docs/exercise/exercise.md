@@ -4,17 +4,18 @@ sidebar_position: 6
 
 # Exercise
 
-Summary: 
+## Summary: 
 
 Countless well documented health benefits. 
 from Reduced Cancer risk, to better mental health, 
 better mood.
 
-Conclusion:
+## Conclusion:
 
 exercise regularly. 
 
-Wiki:
+## Wiki:
+
 
 
 
