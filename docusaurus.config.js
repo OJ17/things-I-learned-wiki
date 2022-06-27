@@ -25,9 +25,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/OJ17/things-I-learned-wiki',
         },
-        // distraction: {
-        //   sidebarPath: require.resolve('./sidebars.js'),
-        // },
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -48,15 +45,21 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Improvement/intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Improvement',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'distraction/intro',
             position: 'left',
-            label: 'Random',
+            label: 'Distraction',
+          },
+          {
+            type: 'doc',
+            docId: 'Academic subjects/intro',
+            position: 'left',
+            label: 'Academic Subjects',
           },
           {
             href: 'https://github.com/OJ17/things-I-learned-wiki',
