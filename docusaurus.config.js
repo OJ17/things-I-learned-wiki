@@ -25,6 +25,9 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/OJ17/things-I-learned-wiki',
         },
+        // distraction: {
+        //   sidebarPath: require.resolve('./sidebars.js'),
+        // },
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,7 +54,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'memory/memory',
+            docId: 'intro',
             position: 'left',
             label: 'Random',
           },
