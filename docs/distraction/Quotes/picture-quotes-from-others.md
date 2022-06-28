@@ -8,6 +8,6 @@ sidebar_position: 6
 
 (work in progress)
 
-
+![Example banner](static/img/quotes/)
 
 

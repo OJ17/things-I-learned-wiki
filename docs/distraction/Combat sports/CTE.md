@@ -9,10 +9,6 @@ sidebar_position: 6
 Getting hit in the head causes injury to the brain! Go figure.
 
 
-### Articles:
-
-
-
 ### Wiki:
 
 https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy
@@ -20,6 +16,8 @@ https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy
 ### Books:
 
 
-### Quotes:
+### People:
+
+[Chris Benoit](https://en.wikipedia.org/wiki/Chris_Benoit_double-murder_and_suicide)
 
 

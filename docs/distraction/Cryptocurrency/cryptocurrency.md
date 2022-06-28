@@ -8,12 +8,19 @@ sidebar_position: 6
 
 Cryptographic currency.
 
-Concepts:
+### Concepts:
 
 staking,
 proof of work,
 proof of stake
 
+Acronyms:
+```
+HODL
+BTFD
+WAGMI
+NGMI
+```
 
 
 
