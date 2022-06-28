@@ -6,7 +6,7 @@ sidebar_position: 6
 
 websites that are cool:
 
-[Yandex](www.yandex.com)
+[Yandex](https://www.yandex.com)
 
 [Our-world-in-data](https://ourworldindata.org/)
 
