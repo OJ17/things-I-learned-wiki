@@ -12,7 +12,9 @@ So for me the plan of action is to write down a list on my desk
 that I literally have to look at and move around every day 
 That reminds me of the key lessons I've learned. 
 
-It's really critical in this process to be mindful of the lessons you've learned.
+It's really critical in this process to remember the lessons you learn and 
+turn them into a habit.
+
 
 
 
