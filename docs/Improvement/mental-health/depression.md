@@ -4,27 +4,52 @@ sidebar_position: 6
 
 # depression
 
+### Disclaimer: none of this is `Medical advice` I'm just sharing some of the things that helped me
+
 ### Summary: 
 
-Your brain can literally change itself. This continues all the way through life.
-Your mind constantly adapts to deal with the challenges presented with it.
+#### Try the basic stuff first:
 
-This continues throughout life and is NOT limited just to children.
+* Sleep 8 hours
+* exercise daily
+* socialise often
+* maintain a good diet
+* do meditation daily
+* stop drinking alcohol
+
+If it is not possible to accomplish these things (such as having insomnia) 
+then seek medical advice in order resolve the fundamental problems first.
+
+If it is hard to socialise and you have no support network then therapy may also 
+be an option.
+
+Sometimes life can be really difficult. And even for years at a time. Ultimately you have to 
+keep some faith that things will improve in future. Even when it seems completely impossible.
+
+#### Second line:
+
+Magic mushrooms / LSD has shown some evidence to treat depression
+
+CBT / Talking therapy is worth learning
+
+If you are lucky enough to have the funds then Therapy may help you to escape from harmful patterns of thought
+(for example: Comparison with others, envy, low self-esteem, self-pity, negative views about the future, about yourself, etc.)
+
+#### 3rd line:
+
+SSRI's come with a lot of side effects and for many are no more 
+effective than placebo. Nonetheless they do help some people.
 
 
 ### concepts:
 
-Myelination
-hormesis, eustress
+CBT
 
 
-### Wiki:
 
-https://en.wikipedia.org/wiki/Myelin
+
 
 ### Books:
-
-https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself
 
 
 

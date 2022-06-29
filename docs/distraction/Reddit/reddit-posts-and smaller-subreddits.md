@@ -22,6 +22,11 @@ sidebar_position: 6
 
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
 
+## cat Subreddits
+
+[StartledCats](https://www.reddit.com/r/StartledCats/top/?t=all)
+
+
 
 
 ### reddit posts:

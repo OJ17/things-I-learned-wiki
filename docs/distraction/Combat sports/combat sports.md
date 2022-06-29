@@ -8,21 +8,16 @@ sidebar_position: 6
 
 
 
-## Articles:
+## Top martial artists:
+```
+Jon Jones
+Fedor Emilianenko
+Anderson Silva
+Khabib Nurmagomedov
+Demetrious Johnson
+```
 
 
-
-
-## Wiki:
-
-
-
-## books:
-
-https://www.goodreads.com/book/show/41061652-the-social-leap
-
-https://www.goodreads.com/book/show/61535.The_Selfish_Gene
-
-Quotes:
+## Quotes:
 
 
