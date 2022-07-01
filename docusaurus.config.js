@@ -40,7 +40,7 @@ const config = {
         title: 'Things I learned',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/if-logo.png',
         },
         items: [
           {
@@ -90,7 +90,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Oliver Jones. Built with Docusaurus`,
+        copyright: `© ${new Date().getFullYear()} Oliver Jones. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

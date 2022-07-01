@@ -275,17 +275,25 @@ William Blake
 Malcolm X 
 Robert Owen 
 Vladimir Lenin 
-Nelson Mandela 
+Nelson Mandela
+Patrice Lumumba
+```
+
+### Psychedelics advocates:
+```
+Terence McKenna
+Robert Anton Wilson
+Timothy Leary
+Ram Dass
 ```
 
 ### Various Others:
 ```
-Terence McKenna 
-Peter Joseph 
-Jane Goodall 
+Peter Joseph
+Jane Goodall
 Garry Kasparov 
 Hypatia 
-Graham Hancock 
+Graham Hancock
 Adam Curtis 
 Immortal Technique
 Judit Polgar
@@ -324,11 +332,7 @@ Mirin Dajo (impales self)
 ```
 People:
 
-Patrice lumumba
-
 Ross Ulbricht
-
-Robert Anton Wilson
 
 Pedro Lopez (serial killer)
 

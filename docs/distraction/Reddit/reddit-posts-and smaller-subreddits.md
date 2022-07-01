@@ -2,13 +2,13 @@
 sidebar_position: 6
 ---
 
-# reddit posts
+# Reddit: other subreddits and posts
 
-### Other decent-ish subreddits:
+### Other decent subreddits:
 
 [MyPeopleNeedMe](https://www.reddit.com/r/MyPeopleNeedMe/top/?t=all)
 
-[catswhoyell](https://www.reddit.com/r/catswhoyell/top/?t=all)
+[dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 [ATBGE](https://www.reddit.com/r/ATBGE/top/?t=all)
 
@@ -22,11 +22,16 @@ sidebar_position: 6
 
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
 
-## cat Subreddits
+### cat Subreddits
+
+[cats](https://www.reddit.com/r/cats/top/?t=all)
+
+[catswhoyell](https://www.reddit.com/r/catswhoyell/top/?t=all)
+
+[MEOW_IRL](https://www.reddit.com/r/MEOW_IRL/top/?t=all)
 
 [StartledCats](https://www.reddit.com/r/StartledCats/top/?t=all)
 
-[MEOW_IRL](https://www.reddit.com/r/MEOW_IRL/top/?t=all)
 
 
 
