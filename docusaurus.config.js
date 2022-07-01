@@ -75,8 +75,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Distraction',
+                to: '/distraction/docs/intro',
+              },
+              {
+                label: 'Academic Subjects',
+                to: '/Academic subjects/docs/intro',
+              },
+              {
+                label: 'improvement',
+                to: '/improvement/docs/intro',
               },
             ],
           },

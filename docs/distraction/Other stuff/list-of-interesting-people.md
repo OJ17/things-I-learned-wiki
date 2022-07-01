@@ -110,7 +110,6 @@ Brian Cox
 Michael Stevens (vsauce)
 Derek Muller (Youtube - Veritaseum)
 Rhonda Patrick (Joe Rogan Podcast, https://www.youtube.com/c/FoundMyFitness)
-
 ```
 
 ### Political Theorists:
@@ -350,11 +349,11 @@ Jean-Michel Basquiat
 
 Yves-Klein (art)
 
-Jim Jones (cult leader)
-
 Evel Knievel (stuntman)
 
 Elvis Presley
+
+Andrew Huberman
 
 Carter G. Woodson -
 "
