@@ -39,7 +39,7 @@ const config = {
       navbar: {
         title: 'Things I learned',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Things I learned logo',
           src: 'img/if-logo.png',
         },
         items: [
@@ -63,9 +63,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'distraction1/intro',
+            docId: 'original-content/intro',
             position: 'left',
-            label: 'd1',
+            label: 'Original content',
           },
           {
             href: 'https://github.com/OJ17/things-I-learned-wiki',

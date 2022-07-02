@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Writing by me:
+# Writing by me
 
 (Coming soon)
 
 Exirr in alpha.zero - 2022
 
-![meme](../../../static/img/exirr-alpha-zero-cover.png)
+![exirr in alpha.zero](../../static/img/exirr-alpha-zero-cover.png)
 
 
 ### Essays by me
