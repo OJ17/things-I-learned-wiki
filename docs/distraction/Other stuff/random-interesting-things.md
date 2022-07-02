@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-## List of interesting stories
+## Interesting stories about deaths and murders
 
 [Killing of Jonbenet Ramsey](https://en.wikipedia.org/wiki/Killing_of_JonBen%C3%A9t_Ramsey)
 
@@ -15,4 +15,8 @@ sidebar_position: 6
 
 [Death of Gareth Williams](https://en.wikipedia.org/wiki/Death_of_Gareth_Williams)
 / [Death of Gareth Williams - video](https://www.youtube.com/watch?v=ij7FqNh5gnQ)
+
+[Teen kills four people in car crash whilst drunk driving and gets off with 10 years probation due to 'Affluenza' defence.](https://en.wikipedia.org/wiki/Ethan_Couch)
+
+[Jonestown massacre - Over 900 dead](https://en.wikipedia.org/wiki/Jonestown)
 

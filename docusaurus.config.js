@@ -39,8 +39,8 @@ const config = {
       navbar: {
         title: 'Things I learned',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Things I learned logo',
+          src: 'img/if-logo.png',
         },
         items: [
           {
@@ -62,6 +62,12 @@ const config = {
             label: 'Academic Subjects',
           },
           {
+            type: 'doc',
+            docId: 'original-content/intro',
+            position: 'left',
+            label: 'Original content',
+          },
+          {
             href: 'https://github.com/OJ17/things-I-learned-wiki',
             label: 'GitHub',
             position: 'right',
@@ -75,8 +81,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Distraction',
+                to: 'docs/distraction/intro',
+              },
+              {
+                label: 'Academic Subjects',
+                to: 'docs/Academic subjects/intro',
+              },
+              {
+                label: 'Improvement',
+                to: 'docs/improvement/intro',
               },
             ],
           },
@@ -90,8 +104,9 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Oliver Jones. Built with Docusaurus`,
+        copyright: `© ${new Date().getFullYear()} Oliver Jones. Built with Docusaurus.`,
       },
+      defaultMode: 'dark',
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

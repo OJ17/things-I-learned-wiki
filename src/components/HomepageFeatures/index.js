@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/fire.svg').default,
     description: (
       <>
         written in simple language
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/lightning.svg').default,
     description: (
       <>
       </>
@@ -22,7 +22,7 @@ const FeatureList = [
   },
   {
     title: 'Apply your lessons',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/bulb.svg').default,
     description: (
       <>
       </>
