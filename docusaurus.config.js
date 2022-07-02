@@ -62,6 +62,12 @@ const config = {
             label: 'Academic Subjects',
           },
           {
+            type: 'doc',
+            docId: 'distraction1/intro',
+            position: 'left',
+            label: 'd1',
+          },
+          {
             href: 'https://github.com/OJ17/things-I-learned-wiki',
             label: 'GitHub',
             position: 'right',
@@ -76,15 +82,15 @@ const config = {
             items: [
               {
                 label: 'Distraction',
-                to: '/distraction/docs/intro',
+                to: 'docs/distraction/intro',
               },
               {
                 label: 'Academic Subjects',
-                to: '/Academic subjects/docs/intro',
+                to: 'docs/Academic subjects/intro',
               },
               {
-                label: 'improvement',
-                to: '/improvement/docs/intro',
+                label: 'Improvement',
+                to: 'docs/improvement/intro',
               },
             ],
           },
@@ -100,6 +106,7 @@ const config = {
         ],
         copyright: `© ${new Date().getFullYear()} Oliver Jones. Built with Docusaurus.`,
       },
+      defaultMode: 'dark',
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

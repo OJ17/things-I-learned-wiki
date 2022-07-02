@@ -10,17 +10,20 @@ sidebar_position: 6
 
 [Alicia Sykes](https://notes.aliciasykes.com/)
 
+### entertainment websites 
+
+Twitter account with short viral video:
+[No Context Humans](https://twitter.com/NoContextHumans)
+
+
+
 ### websites:
 
-Image search:
+Nice image search alternative to google:
 [Yandex](https://www.yandex.com)
 
 some nice data here:
 [Our-world-in-data](https://ourworldindata.org/)
-
-
-
-
 
 
 

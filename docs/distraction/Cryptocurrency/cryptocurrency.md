@@ -6,38 +6,60 @@ sidebar_position: 6
 
 ## Summary:
 
-Cryptographic currency.
+Cryptographic currency. Potentially a remedy for government controlled [Fiat](https://www.investopedia.com/terms/f/fiatmoney.asp) currency.
 
-### Concepts:
+Part of the reason inflation is sky high is due to government monetary policies and central banks. Such as the fed reserve.
 
-staking,
-proof of work,
-proof of stake
+## Which coins should I buy according to you?:
 
-Acronyms:
+Safest coins (most likely to be around in 10 years). Lower returns but less risk.
 ```
-HODL
-BTFD
-WAGMI
-NGMI
+Bitcoin
+Ethereum
 ```
 
+More risky coins that have huge communities or ecosystems that will probably still be around:
+```
+Solana (SOL)
+Polkadot (DOT)
+Cardano (ADA)
+Ripple (XRP)
+Stellar Lumens (XLM)
+```
 
+## Potentially also good but highly risky 
 
-## Wiki:
-
-
+```
+Avalanche (AVAX)
+Elrond eGold (EGLD)
+Lukso (LXYe)
+Atom (ATOM)
+Fantom (FTM)
+MetisDao (METIS)
+```
 
 ## Articles:
 
-Web3 & NFT's:
+[Speculative bitcoin Adoption / price theory](https://medium.com/@mcasey0827/speculative-bitcoin-adoption-price-theory-2eed48ecf7da)
 
-https://moxie.org/2022/01/07/web3-first-impressions.html
+### Concepts:
+```
+staking,
+Proof of Work,
+Proof of Stake,
+dPOS - delegated proof of stake
+POAP - Proof of Attendance protocol
+```
 
-Understanding the metaverse:
-
-https://medium.com/@aaronDfrank/how-to-explain-the-metaverse-to-your-grandparents-b6f6acae17ed
-
+### Acronyms:
+```
+BTFD - Buy The Fucking Dip
+FUD - Fear, Uncertainty, Doubt
+FOMO - Fear Of Missing Out
+HODL - Hold On for Dear Life
+WAGMI - We're All Gonna Make It
+NGMI - Not Gonna Make It
+```
 
 
 

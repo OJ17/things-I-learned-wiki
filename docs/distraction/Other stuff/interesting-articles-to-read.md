@@ -4,6 +4,9 @@ sidebar_position: 6
 
 # Interesting articles to read
 
+
+### Blockchain / metaverse:
+
 [Speculative bitcoin Adoption / price theory](https://medium.com/@mcasey0827/speculative-bitcoin-adoption-price-theory-2eed48ecf7da)
 
 Cool article about Web3 and how NFTs interact with the blockchain (07/01/2022)
@@ -11,6 +14,12 @@ Cool article about Web3 and how NFTs interact with the blockchain (07/01/2022)
 
 Cool article about the metaverse:
 [How to explain the metaverse to your grandparents](https://medium.com/@aaronDfrank/how-to-explain-the-metaverse-to-your-grandparents-b6f6acae17ed)
+
+### House prices:
+
+[The housing theory of everything](https://www.worksinprogress.co/issue/the-housing-theory-of-everything/)
+
+
 
 
 
