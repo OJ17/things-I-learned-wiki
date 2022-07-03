@@ -68,6 +68,12 @@ const config = {
             label: 'Original content',
           },
           {
+            type: 'doc',
+            docId: 'about/intro',
+            position: 'left',
+            label: 'About',
+          },
+          {
             href: 'https://github.com/OJ17/things-I-learned-wiki',
             label: 'GitHub',
             position: 'right',

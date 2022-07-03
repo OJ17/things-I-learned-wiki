@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Marketing
 
+Key principles of marketing:
+
+* Limited time only 'sales'
+* Artificial scarcity
+* Brand recognition
+* Show successful / attractive people using it
+
+
 
 
 ### Summary: 
