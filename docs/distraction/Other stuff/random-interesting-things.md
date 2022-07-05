@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-## Interesting stories about deaths and murders
+## Interesting stories about unexplained deaths and murders
 
 [Killing of Jonbenet Ramsey](https://en.wikipedia.org/wiki/Killing_of_JonBen%C3%A9t_Ramsey)
 
@@ -19,4 +19,5 @@ sidebar_position: 6
 [Teen kills four people in car crash whilst drunk driving and gets off with 10 years probation due to 'Affluenza' defence.](https://en.wikipedia.org/wiki/Ethan_Couch)
 
 [Jonestown massacre - Over 900 dead](https://en.wikipedia.org/wiki/Jonestown)
+
 

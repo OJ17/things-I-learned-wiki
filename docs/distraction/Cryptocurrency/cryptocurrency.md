@@ -8,7 +8,8 @@ sidebar_position: 6
 
 Cryptographic currency. Potentially a remedy for government controlled [Fiat](https://www.investopedia.com/terms/f/fiatmoney.asp) currency.
 
-Part of the reason inflation is sky high is due to government monetary policies and central banks. Such as the fed reserve.
+Part of the reason inflation is sky high is due to government monetary policies and central banks. Due to quantitative easing 
+And the constant [printing of money](https://fred.stlouisfed.org/series/M2SL) without any corresponding assets.
 
 ## Which coins should I buy according to you?:
 
@@ -28,7 +29,7 @@ Stellar Lumens (XLM)
 ```
 
 ## Potentially also good but highly risky 
-
+Very high risk, very high reward.
 ```
 Avalanche (AVAX)
 Elrond eGold (EGLD)
@@ -54,6 +55,7 @@ POAP - Proof of Attendance protocol
 ### Acronyms:
 ```
 BTFD - Buy The Fucking Dip
+DYOR - Do Your own Resarch
 FUD - Fear, Uncertainty, Doubt
 FOMO - Fear Of Missing Out
 HODL - Hold On for Dear Life

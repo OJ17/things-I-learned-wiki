@@ -22,6 +22,7 @@ Marcus Aurelius
 Epicurus
 Hannah Arendt
 Plato
+Democritus
 Ludwig Wittgenstein
 David Hume
 Simone de Beauvoir
@@ -32,6 +33,7 @@ Confucius
 Sun Tzu
 Niccolo Machiavelli
 Aristotle
+Hypatia
 St Augustine
 Michel Foucault 
 Rene Descartes
@@ -41,6 +43,7 @@ Edmund Husserl
 Johann Von Goethe
 G. W. F. Hegel
 G.E. Moore
+John Dewey
 Jiddu Krishnamurti
 Daniel Dennett
 Martha Nussbaum
@@ -126,6 +129,8 @@ Antonio Gramsci
 ```
 John R. Searle
 Auguste Comte
+Emile Durkheim
+Max Weber
 ```
 
 ### Mathematicians:
@@ -136,6 +141,7 @@ Kurt Godel
 Andrew Wiles 
 Blaise Pascal 
 Pythagoras
+Gottfried Wilhelm Leibniz
 Terence Tao
 Paul Erdős
 ```
@@ -244,7 +250,8 @@ Eric Hobsbawm
 ### Neuroscientists:
 ```
 David Nutt 
-David Eagleman 
+David Eagleman
+Andrew Huberman
 ```
 
 ### Comedians:
@@ -294,24 +301,24 @@ Ram Dass
 
 ### Various Others:
 ```
-Peter Joseph
-Jane Goodall
-Garry Kasparov 
-Hypatia 
-Graham Hancock
-Adam Curtis 
-Immortal Technique
-Judit Polgar
-Kim Peek
-Steven Patrick Morrisey
-Democritus
-Stanley Kubrick
-Leon Trotsky
-Max Weber
-Václav Havel
-Emile Durkheim
-Leibniz
-John Dewey
+Peter Joseph (Maker of Zietgeist films)
+Jane Goodall (anthropologist)
+Garry Kasparov (one of the best chess players ever) 
+Graham Hancock (Author and 'alternative historian')
+Adam Curtis (Filmmaker)
+Immortal Technique (Political Rapper)
+Judit Polgar (Strongest female chess player of all time)
+Kim Peek (A.K.A. Rainmain)
+Steven Patrick Morrisey (Singer)
+Stanley Kubrick (Filmmaker)
+Ross Ulbricht (Silk Road Creator)
+Bernie Sanders (Left wing politician)
+Pedro Lopez (serial killer)
+Michel Lotito (Eating strange things - such as metal)
+Kyal Sin (19 year old protester who died)
+Russell Barkely (ADHD expert)
+Evel Knievel (stuntman)
+Elvis Presley (Singer)
 ```
 
 ### Some people I dislike the ideas of:
@@ -327,10 +334,8 @@ Margaret Thatcher
 Edward Bernays
 ```
 
-### Combat sports
+### MMA
 ```
-Jaron Ennis (Boxer)
-
 Jon Jones
 Fedor Emilianenko
 Bas Rutten
@@ -343,37 +348,4 @@ Khamzat Chimaev
 ### People with strange talents:
 ```
 Mirin Dajo (impales self)
-
-```
-
-### Not yet processed list:
-```
-People:
-
-Ross Ulbricht
-
-Pedro Lopez (serial killer)
-
-Michel Lotito (eating strange things)
-
-Kyal Sin
-
-Russell Barkely (ADHD expert)
-
-Bernie Sanders
-
-Evel Knievel (stuntman)
-
-Elvis Presley
-
-Andrew Huberman
-
-Carter G. Woodson -
-"
-If you can control a man's thinking you do not
-have to worry about his action. When you determine what a
-man shall think you do not have to
-concern yourself about what he will do
-"
-
 ```

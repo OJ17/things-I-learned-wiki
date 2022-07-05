@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary:
 
-(work in progress)
+(work in progress) - Hope to make a 'random picture generator here'
 
 ![cat](../../../static/img/cats/agvxvugnkz251.jpg)
 ![cat](../../../static/img/cats/ahodrl8j7b351.jpg)

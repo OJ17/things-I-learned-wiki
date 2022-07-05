@@ -9,4 +9,6 @@ can process around 40 of them consciously (Timothy Wilson, Strangers to ourselve
 
 * All the numbers of a roulette wheel add up to 666
 
+* The average person has a little over 6000 thoughts per day
+
 
