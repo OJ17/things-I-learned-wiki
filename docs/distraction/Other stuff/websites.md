@@ -15,15 +15,19 @@ sidebar_position: 6
 Twitter account with short viral video:
 [No Context Humans](https://twitter.com/NoContextHumans)
 
-
-
 ### websites:
 
 Nice image search alternative to google:
 [Yandex](https://www.yandex.com)
 
-some nice data here:
+Some nice data here:
 [Our-world-in-data](https://ourworldindata.org/)
+
+Great website for Drug info / drug trip reports:
+[Erowid](https://erowid.org/)
+
+Some interesting free talks:
+[TED Talks](https://www.ted.com/talks?sort=popular)
 
 
 

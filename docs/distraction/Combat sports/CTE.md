@@ -11,7 +11,7 @@ Getting hit in the head causes injury to the brain! Go figure.
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy
+[CTE](https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy)
 
 ### Books:
 

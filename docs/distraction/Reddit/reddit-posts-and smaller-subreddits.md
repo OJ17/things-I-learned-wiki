@@ -39,7 +39,7 @@ sidebar_position: 6
 
 
 
-### reddit posts:
+### Reddit posts:
 
 [cat chasing a brush](https://www.reddit.com/r/Eyebleach/comments/gp4nj3/trying_to_catch_it/)
 
@@ -48,6 +48,7 @@ sidebar_position: 6
 [Kitten walks on a rotating wheel](https://www.reddit.com/r/aww/comments/slzgux/ever_wondered_how_this_subreddit_is_powered/)
 
 [Cat jumps smoothly on a bed](https://www.reddit.com/r/BetterEveryLoop/comments/asnebf/cat_goes_boing/)
+
 
 
 

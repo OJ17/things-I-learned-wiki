@@ -5,13 +5,26 @@ sidebar_position: 6
 # Art
 
 ### Basquiat - Self-portrait (1982):
-![meme](../../../static/img/art/basquiat-self-portrait.jpg)
+![Basquiat](../../../static/img/art/basquiat-self-portrait.jpg)
 
 ### Basquiat - Two heads on gold (1982)
-![meme](../../../static/img/art/basquiat-two-heads-on-gold.jpg)
+![Basquiat](../../../static/img/art/basquiat-two-heads-on-gold.jpg)
 
-### @WLOP - (2001)
-![meme](../../../static/img/art/wlop.jpg)
+### Alex Gray - Artist's Hand (1997)
+![Alex Gray](../../../static/img/art/alex-gray-hand-brush.jpeg)
+
+### Shawn Thornton - Lobotomy of The Ghost Mechanics (2002)
+![Shawn Thornton](../../../static/img/art/ghost-mechanics.jpeg)
+
+### @WLOP - (2021)
+![WLOP](../../../static/img/art/wlop.jpg)
+
+### WLOP Throne(2021)
+[WLOP IG account](https://www.instagram.com/wlop/?hl=en)
+![WLOP](../../../static/img/art/throne-wlop.jpeg)
+
+
+
 
 
 
