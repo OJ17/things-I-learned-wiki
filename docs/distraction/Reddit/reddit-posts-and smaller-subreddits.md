@@ -12,6 +12,8 @@ sidebar_position: 6
 
 [ATBGE](https://www.reddit.com/r/ATBGE/top/?t=all)
 
+[BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop/top/?t=all)
+
 [ghosts](https://www.reddit.com/r/ghosts/top/?t=all)
 
 [scary](https://www.reddit.com/r/scary/top/?t=all)
@@ -21,6 +23,8 @@ sidebar_position: 6
 [science](https://www.reddit.com/r/science/top/?t=all)
 
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
+
+[ThewKnew](https://www.reddit.com/r/theyknew/top/?t=year)
 
 ### cat Subreddits
 
@@ -43,7 +47,7 @@ sidebar_position: 6
 
 [Kitten walks on a rotating wheel](https://www.reddit.com/r/aww/comments/slzgux/ever_wondered_how_this_subreddit_is_powered/)
 
-
+[Cat jumps smoothly on a bed](https://www.reddit.com/r/BetterEveryLoop/comments/asnebf/cat_goes_boing/)
 
 
 

@@ -14,7 +14,7 @@ This is the sacrifice that is necessary to attain your goals.
 
 You have a little over 6000 thoughts per day. So if you spend them 
 on listening to music and lyrics on repeat, or filling your mind with stress
-or distractions. 
+or distractions you won't have time for what matters.
 
 The journey to success begins in the mastery of your thoughts.
 

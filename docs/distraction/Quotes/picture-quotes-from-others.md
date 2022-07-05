@@ -8,8 +8,6 @@ sidebar_position: 6
 
 (work in progress)
 
-![Buddha Quote](../../../static/img/quotes/50-wasted.png)
-
 ![emerson Quote](../../../static/img/quotes/actions-speak-loud-emerson.png)
 
 ![adyashanti Quote](../../../static/img/quotes/Adyashanti-quote.jpg)
@@ -27,6 +25,8 @@ sidebar_position: 6
 ![born free Quote](../../../static/img/quotes/born-free-in-chains.png)
 
 ![brick walls Quote](../../../static/img/quotes/brick-walls.png)
+
+![W.C. Fields Quote](../../../static/img/quotes/50-wasted.png)
 
 ![Buddha Quote](../../../static/img/quotes/buddha-quote.jpg)
 
