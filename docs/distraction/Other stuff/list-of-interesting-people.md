@@ -269,6 +269,12 @@ William Wordsworth
 William Blake 
 ```
 
+### Artist:
+```
+Jean-Michel Basquiat
+Yves-Klein (art)
+```
+
 ### Revolutionaries:
 ```
 Malcolm X 
@@ -321,6 +327,19 @@ Margaret Thatcher
 Edward Bernays
 ```
 
+### Combat sports
+```
+Jaron Ennis (Boxer)
+
+Jon Jones
+Fedor Emilianenko
+Bas Rutten
+Demetrious Johnson
+Khabib Nurmagomedov
+Anderson Silva
+Khamzat Chimaev
+```
+
 ### People with strange talents:
 ```
 Mirin Dajo (impales self)
@@ -341,13 +360,7 @@ Kyal Sin
 
 Russell Barkely (ADHD expert)
 
-Jaron Ennis (Boxer)
-
 Bernie Sanders
-
-Jean-Michel Basquiat
-
-Yves-Klein (art)
 
 Evel Knievel (stuntman)
 

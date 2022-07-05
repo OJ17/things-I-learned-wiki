@@ -51,14 +51,12 @@ Lots of similar videos if you search `TCAP` or `To catch a predator`
 
 [Krokodil: Russia's Deadliest Drug (NSFW)](https://www.youtube.com/watch?v=JsUH8llvTZo)
 
-["Call it!" - UFC fighter throws in the towel as trainer won't stop the fight ](https://www.youtube.com/watch?v=w0t8PkfRQV8)
-
 [cute bunny jumping show](https://www.youtube.com/watch?v=qM9YWm6T_hc)
 
 [15 most beautiful caves](https://www.youtube.com/watch?v=gMUvVCCeLIM)
 
 
-Music / random songs:
+Music / random meme songs:
 
 [How to draw a crowd from nowhere](https://www.youtube.com/watch?v=awX9XkPG5oY)
 
