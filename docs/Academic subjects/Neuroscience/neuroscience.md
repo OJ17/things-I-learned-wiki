@@ -4,14 +4,13 @@ sidebar_position: 6
 
 # Neuroscience
 
-### Summary: 
+### Summary:
 
-
-
+Primarily I'm interested in neuroplasticity and the brains capacity to heal from trauma
+and thrive through adversity. 
 
 
 ### concepts:
-
 
 Myelination - the brain literally changes to adapt with the environment.
 
