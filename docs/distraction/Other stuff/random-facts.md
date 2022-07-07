@@ -11,4 +11,7 @@ can process around 40 of them consciously (Timothy Wilson, Strangers to ourselve
 
 * The average person has a little over 6000 thoughts per day
 
+* The word Person is latin for Personae which translates as 'mask'
+
+
 

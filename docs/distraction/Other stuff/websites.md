@@ -29,6 +29,13 @@ Great website for Drug info / drug trip reports:
 Some interesting free talks:
 [TED Talks](https://www.ted.com/talks?sort=popular)
 
+Stanford Encyclopedia of philosophy:
+[Stanford Encyclopedia of philosophy](https://plato.stanford.edu/)
+
+Good free source of journal articles for health / diet, etc.:
+[pubmed](https://pubmed.ncbi.nlm.nih.gov/)
+
+
 
 
 

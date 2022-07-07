@@ -12,8 +12,13 @@ sidebar_position: 6
 
 ### concepts:
 
-Myelination
 
+Myelination - the brain literally changes to adapt with the environment.
+
+![Myelin](../../../static/img/academic/myelination.gif)
+
+Neuroplasticity - Your brain can in some ways rewire itself which helps you learn through life. 
+How you spend your time and attention determines how your brain will change over time.
 
 
 ### books:

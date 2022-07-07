@@ -12,7 +12,7 @@ sidebar_position: 6
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/List_of_cognitive_biases
+[List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 ### Books:
 
