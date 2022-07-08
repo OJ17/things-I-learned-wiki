@@ -146,6 +146,11 @@ Terence Tao
 Paul Erdős
 ```
 
+### Blockchain
+```
+Vitalik Buterin
+```
+
 ### Authors:
 ```
 Aldous Huxley
