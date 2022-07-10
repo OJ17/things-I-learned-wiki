@@ -27,9 +27,9 @@ to arrive.
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/Effects_of_meditation
+[Effects of meditation](https://en.wikipedia.org/wiki/Effects_of_meditation)
 
-https://www.google.com/search?q=benefits+of+meditation
+[Google search - benefits of meditation](https://www.google.com/search?q=benefits+of+meditation)
 
 
 

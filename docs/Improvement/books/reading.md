@@ -11,7 +11,7 @@ Literally makes you smarter (if you read the right stuff). Read widely and read 
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/Reading#Cognitive_benefits
+[Cognitive benefits of reading](https://en.wikipedia.org/wiki/Reading#Cognitive_benefits)
 
 ### Quotes:
 

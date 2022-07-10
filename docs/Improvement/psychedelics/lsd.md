@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary: 
 
-a powerful tool for introspection that taken intelligently can 
+A powerful tool for introspection that taken intelligently can 
 accelerate psychological growth and rewire the brain out of problematic
 ways of thinking.
 

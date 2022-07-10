@@ -97,6 +97,7 @@ B.F. Skinner
 Amos Tversky 
 William James 
 Jordan Peterson
+Gabor_Mate
 ```
 
 ### Chemists:
@@ -118,7 +119,7 @@ Rhonda Patrick (Joe Rogan Podcast, https://www.youtube.com/c/FoundMyFitness)
 ### Political Theorists:
 ```
 Robert A. Dahl
-Baron de Montesquieu 
+Baron de Montesquieu
 Michael Parenti 
 Larry Diamond 
 Iris Marion Young 

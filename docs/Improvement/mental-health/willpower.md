@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary: 
 
-Willpower is a finite resource. It can be strengthened over time.
+Willpower is a finite resource, but it can be strengthened over time.
 
 
 
@@ -20,6 +20,6 @@ Willpower is a finite resource. It can be strengthened over time.
 
 ### Books:
 
-https://www.goodreads.com/book/show/10865206-the-willpower-instinct
+[The Willpower Instinct](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
 
 

@@ -14,6 +14,13 @@ Technology:
 
 [Meta Keynote](https://www.youtube.com/watch?v=Uvufun6xer8)
 
+UFOs / UAPs:
+
+Bob Lazar's story is probably BS, but this is pretty interesting at the very least.
+[Joe Rogan - Bob Lazar](https://www.youtube.com/watch?v=BEWz4SXfyCQ)
+
+[Pentagon officially releases 'UFO' videos](https://www.youtube.com/watch?v=auITEKd4sjA)
+
 Random videos:
 
 [Crocodile Catches Cheetah](https://www.youtube.com/watch?v=A-8l-7guF84)

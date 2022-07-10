@@ -10,7 +10,7 @@ sidebar_position: 6
 
 [Alicia Sykes](https://notes.aliciasykes.com/)
 
-### entertainment websites 
+### Entertainment websites 
 
 Twitter account with short viral video:
 [No Context Humans](https://twitter.com/NoContextHumans)

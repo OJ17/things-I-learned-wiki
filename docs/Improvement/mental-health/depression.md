@@ -11,11 +11,11 @@ sidebar_position: 6
 #### Try the basic stuff first:
 
 * Sleep 8 hours
-* exercise daily
-* socialise often
-* maintain a good diet
-* do meditation daily
-* stop drinking alcohol
+* Exercise 5 days a week (tiring yourself out exercise)
+* Socialise often
+* Maintain a good diet
+* Do meditation daily
+* Stop drinking alcohol
 
 If it is not possible to accomplish these things (such as having insomnia) 
 then seek medical advice in order resolve the fundamental problems first.

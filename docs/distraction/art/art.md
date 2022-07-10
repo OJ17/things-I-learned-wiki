@@ -23,6 +23,10 @@ sidebar_position: 6
 [WLOP IG account](https://www.instagram.com/wlop/?hl=en)
 ![WLOP](../../../static/img/art/throne-wlop.jpeg)
 
+### Banana tape artwork
+
+[Banana duct-taped to wall art installation sells for $120k](https://news.sky.com/story/banana-duct-taped-to-wall-art-installation-sells-for-120k-in-miami-11879272)
+
 
 
 

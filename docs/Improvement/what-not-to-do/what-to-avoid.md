@@ -12,7 +12,7 @@ is establishing what things are actually adding value to your life.
 It's really fucking easy to lie to yourself about this. REALLY easy.
 
 For me I realised that I was almost unconsciously spending upwards of 
-20-30 hours a week on youtube, twitter, the news, and reddit combined.
+20-30 hours a week on YouTube, twitter, the news, and reddit combined.
 
 Maybe you prefer Facebook, Instagram, UFC, Football, boxing, or something else.
 

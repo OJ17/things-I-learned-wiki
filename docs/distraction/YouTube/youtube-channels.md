@@ -45,4 +45,6 @@ A northern guy reviewing takeaways around england: [Rate My Takeaway](https://ww
 
 [Ricky Gervias show XFM podcast](https://player.fm/series/the-ricky-gervais-radio-show)
 
+Only seen a few of these but the ones I've seen have all been really good.
+[Rich Roll podcasts](https://www.youtube.com/c/Richroll/videos?view=0&sort=p&flow=grid)
 

@@ -15,6 +15,9 @@ Usually most people report a dip in productivity after lunch which can be avoide
 
 Ketosis
 
+Water fasting
+
+
 
 
 

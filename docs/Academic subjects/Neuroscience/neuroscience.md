@@ -24,8 +24,24 @@ How you spend your time and attention determines how your brain will change over
 
 [The Brain that Changes itself](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself)
 
+[Incognito: The Secret Lives of the Brain](https://www.goodreads.com/book/show/9827912-incognito)
 
-### Images:
+### Youtube videos:
+
+[Change Your Brain: Neuroscientist Dr. Andrew Huberman](https://www.youtube.com/watch?v=SwQhKFMxmDY)
+
+### People:
+```
+Andrew Huberman
+Sam Harris
+David Eagleman 
+```
+
+### Podcasts:
+
+[Huberman lab](https://hubermanlab.com/)
+
+
 
 
 
