@@ -8,14 +8,14 @@ sidebar_position: 6
 
 (work in progress) - Hope to make a 'random picture generator here'
 
-![cat](../../../static/img/cats/agvxvugnkz251.jpg)
-![cat](../../../static/img/cats/ahodrl8j7b351.jpg)
-![cat](../../../static/img/cats/ahuhpa3bngr41.jpg)
-![cat](../../../static/img/cats/ahy40ti02db71.jpg)
-![cat](../../../static/img/cats/1bck7r7k9p581.jpeg)
-![cat](../../../static/img/cats/1eu6vejbyi451.jpg)
-![cat](../../../static/img/cats/1ka1k4a2lso81.jpg)
-![cat](../../../static/img/cats/w0oko98obg381.jpeg)
+![cat](../../../static/img/cats/cat-doll-house.jpg)
+![cat](../../../static/img/cats/a-nice-kitten.jpg)
+![cat](../../../static/img/cats/a-scared-kitten.jpg)
+![cat](../../../static/img/cats/anger-cat.jpg)
+![cat](../../../static/img/cats/bed-cat.jpg)
+![cat](../../../static/img/cats/big-eye-kitten.jpg)
+![cat](../../../static/img/cats/black-cat-vampire.jpg)
+![cat](../../../static/img/cats/bone-bone-backpack.jpg)
 
 
 

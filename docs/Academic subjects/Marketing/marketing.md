@@ -10,9 +10,7 @@ Key principles of marketing:
 * Artificial scarcity
 * Brand recognition
 * Show successful / attractive people using it
-
-
-
+* repeated exposure
 
 ### Summary: 
 

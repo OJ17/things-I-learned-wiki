@@ -6,6 +6,10 @@ sidebar_position: 6
 
 ## Summary: 
 
+A branch of psychology / economics about predictable biases in the human mind.
+For example preferring expensive wine to cheap when you know the prices, but 
+preferring the cheap wine over the expensive when the labels are hidden. 
+
 
 
 
@@ -20,15 +24,15 @@ sidebar_position: 6
 
 [Thinking Fast and Slow - Kahneman and Tversky](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow?from_search=true&from_srp=true&qid=6gIFxFb89D&rank=1)
 
-
-## Quotes:
-
-
+[Nudge - Thaler & sunstein](https://www.goodreads.com/book/show/3450744-nudge)
 
 
 ## People:
-
+```
 Daniel Kahneman
+Amos Tversky
+Dan Ariely
+```
 
 
 

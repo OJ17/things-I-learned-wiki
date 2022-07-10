@@ -10,25 +10,19 @@ Eudaimonia
 
 Ethics:
 
-utilitarianism / Deontology
+Utilitarianism / Deontology
 
 
 ### Thought experiments:
 
-Trolley problem
-Ship of Theseus
+[Trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
+
+[Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 
 
 ### Paradoxes:
 
 Xeno's paradox
-
-
-### Summary:
-
-FMRI scan can predict your behaviour before conscious awareness,
-
-
 
 
 ### Wiki:

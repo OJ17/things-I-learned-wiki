@@ -19,11 +19,11 @@ Myelination, hormesis, eustress
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/Myelin
+[Myelin](https://en.wikipedia.org/wiki/Myelin)
 
 ### Books:
 
-https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself
+[The brain that changes itself(https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself)
 
 
 

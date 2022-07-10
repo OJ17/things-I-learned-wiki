@@ -39,7 +39,7 @@ Dopamine Detox (i.e. be bored for a while)
 
 use an electric toothbrush
 
-
+Using a smart watch to save time in checking for notifications
 
 
 ### concepts:

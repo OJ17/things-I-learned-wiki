@@ -15,10 +15,8 @@ Reliable father figure increases IQ
 Praise can be harmful to children. Better to praise trying hard, 
 rather than praise intelligence. (Carol Dweck)
 
--
 
-
-Wiki:
+### Wiki:
 
 
 

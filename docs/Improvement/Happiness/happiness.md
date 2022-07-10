@@ -12,9 +12,10 @@ sidebar_position: 6
 
 * diet
 * sleep
-* exercise (cardio is better)
+* exercise (cardio is better, both way better than nothing)
 * socialising
 * meditation
+* taking action towards your goals
 
 ## Other rules:
 

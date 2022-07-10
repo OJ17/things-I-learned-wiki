@@ -20,5 +20,5 @@ Breathe through your nose. If you can't then get that fixed by a doctor.
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/Mouth_breathing
+[Mouth Breathing](https://en.wikipedia.org/wiki/Mouth_breathing)
 

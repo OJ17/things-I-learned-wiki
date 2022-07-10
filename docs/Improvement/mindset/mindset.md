@@ -19,10 +19,10 @@ Some ways of thinking are better than others. Be mindful about this.
 
 ### Wiki:
 
-https://en.wikipedia.org/wiki/Learned_helplessness
+[Learned Helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
 
 
 ### books:
 
-https://www.goodreads.com/book/show/40745.Mindset
+[Mindset - Carol Dweck](https://www.goodreads.com/book/show/40745.Mindset)
 

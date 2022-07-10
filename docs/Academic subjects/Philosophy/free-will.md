@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary: 
 
-FMRI scan can predict your behaviour before conscious awareness,
+FMRI scan can predict your behaviour before conscious awareness.
 
 
 ### Wiki:
@@ -14,7 +14,7 @@ FMRI scan can predict your behaviour before conscious awareness,
 
 ### Books:
 
-https://www.goodreads.com/book/show/9827912-incognito
+[Incognito - David Eagleman](https://www.goodreads.com/book/show/9827912-incognito)
 
 
 

@@ -10,7 +10,7 @@ sidebar_position: 6
 
 [Alicia Sykes](https://notes.aliciasykes.com/)
 
-### entertainment websites 
+### Entertainment websites 
 
 Twitter account with short viral video:
 [No Context Humans](https://twitter.com/NoContextHumans)
@@ -28,6 +28,13 @@ Great website for Drug info / drug trip reports:
 
 Some interesting free talks:
 [TED Talks](https://www.ted.com/talks?sort=popular)
+
+Stanford Encyclopedia of philosophy:
+[Stanford Encyclopedia of philosophy](https://plato.stanford.edu/)
+
+Good free source of journal articles for health / diet, etc.:
+[pubmed](https://pubmed.ncbi.nlm.nih.gov/)
+
 
 
 

@@ -17,12 +17,14 @@ For some people Caffeine + L-theanine works well.
 Green tea (Has natural source of L-theanine)
 
 Nicotine patches, gum, or vaping (vaping is less healthy) 
-(NOT TOBACCO)
+(NOT TOBACCO) - For me pretty good, but reasonably high addiction potential. [Gwern - nicotine](https://www.gwern.net/Nicotine)
 
 Modafinil - Very useful for those dealing with fatigue or exhaustion.
-Used by military. Available to buy online with Ethereum.
+Used by military. Available to buy online with Ethereum. For me really positive with very few side-effects. [Gwern - Modafinil](https://www.gwern.net/Modafinil) 
 
+CBD oil - [Need to research this more. before giving a better summary. So far seems to be quite effective for sleep / anxiety] 
 
+Caffeine - Not great for me on balance. 
 
 ### Conclusion:
 
