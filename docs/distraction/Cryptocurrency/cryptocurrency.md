@@ -63,5 +63,10 @@ WAGMI - We're All Gonna Make It
 NGMI - Not Gonna Make It
 ```
 
+#### Youtube Channels:
+
+[CoinBureau](https://www.youtube.com/c/CoinBureau/videos?view=0&sort=p&flow=grid)
+
+
 
 
