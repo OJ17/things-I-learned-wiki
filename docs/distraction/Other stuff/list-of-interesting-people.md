@@ -264,7 +264,9 @@ Andrew Huberman
 ```
 George Carlin 
 Bill Hicks 
-Doug Stanhope 
+Doug Stanhope
+Sam Kinison
+Sascha Baron Cohen
 ```
 
 ### Inventors:
