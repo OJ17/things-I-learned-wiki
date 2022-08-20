@@ -27,6 +27,8 @@ Here are some of the better ones I've found.
 
 [blessedimages](https://www.reddit.com/r/blessedimages/top/?t=all)
 
+[choosingBeggars](https://www.reddit.com/r/ChoosingBeggars/top/?t=month)
+
 [CrappyDesign](https://www.reddit.com/r/CrappyDesign/top/?t=all)
 
 [criticalblunder](https://www.reddit.com/r/criticalblunder/top/?t=all)
@@ -71,13 +73,13 @@ Here are some of the better ones I've found.
 
 [Kitten](https://www.reddit.com/r/Kitten/top/?t=all)
 
+[madlads](https://www.reddit.com/r/madlads/top/?t=all)
+
 [meirl](https://www.reddit.com/r/meirl/top/?t=all)
 
 [mildlyinfuriating](https://www.reddit.com/r/mildlyinfuriating/top/?t=all)
 
 [mildlyinteresting](https://www.reddit.com/r/mildlyinteresting/top/?t=all)
-
-[MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
 
 [nevertellmetheodds](https://www.reddit.com/r/nevertellmetheodds/top/?t=all)
 
