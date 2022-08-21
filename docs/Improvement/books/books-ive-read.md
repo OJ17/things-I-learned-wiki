@@ -15,9 +15,5 @@ that aren't on this list simply because they are too long.
 
 [Recommended books](https://www.goodreads.com/review/list/59442190?shelf=good-books-i-d-recommend)
 
-### Video games played:
-
-[Video games I've played](https://www.grouvee.com/user/136979-Exirr/shelves/)
-
 
 

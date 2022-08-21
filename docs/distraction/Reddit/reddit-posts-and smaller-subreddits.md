@@ -6,23 +6,31 @@ sidebar_position: 6
 
 ### Other decent subreddits:
 
-[MyPeopleNeedMe](https://www.reddit.com/r/MyPeopleNeedMe/top/?t=all)
-
-[dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+[AssholeDesign](https://www.reddit.com/r/assholedesign/top/?t=month)
 
 [ATBGE](https://www.reddit.com/r/ATBGE/top/?t=all)
 
 [BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop/top/?t=all)
 
+[ChangeMyView](https://www.reddit.com/r/changemyview/)
+
+[dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+
 [ghosts](https://www.reddit.com/r/ghosts/top/?t=all)
 
-[scary](https://www.reddit.com/r/scary/top/?t=all)
+[MyPeopleNeedMe](https://www.reddit.com/r/MyPeopleNeedMe/top/?t=all)
+
+[MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
 
 [ntbdbiwdfta](https://www.reddit.com/r/ntbdbiwdfta/top/?t=all)
 
-[science](https://www.reddit.com/r/science/top/?t=all)
+[scary](https://www.reddit.com/r/scary/top/?t=all)
+
+[Science](https://www.reddit.com/r/science/top/?t=all)
 
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
+
+[That haappened](https://www.reddit.com/r/thatHappened/top/?t=all)
 
 [ThewKnew](https://www.reddit.com/r/theyknew/top/?t=year)
 

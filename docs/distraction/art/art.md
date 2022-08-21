@@ -19,7 +19,7 @@ sidebar_position: 6
 ### @WLOP - (2021)
 ![WLOP](../../../static/img/art/wlop.jpg)
 
-### WLOP Throne(2021)
+### WLOP Throne (2021)
 [WLOP IG account](https://www.instagram.com/wlop/?hl=en)
 ![WLOP](../../../static/img/art/throne-wlop.jpeg)
 

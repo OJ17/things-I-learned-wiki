@@ -28,15 +28,13 @@ Key principles of marketing:
 "The mere-exposure effect is a psychological phenomenon by which people tend to develop a preference for things merely because they are familiar with them."
 
 
-
-
-
-
 ### books:
 
 
 
-### Quotes:
+### websites:
+
+[Psychological pricing strategies](https://www.nickkolenda.com/psychological-pricing-strategies/)
 
 
 
