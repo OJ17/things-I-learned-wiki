@@ -13,29 +13,30 @@ And the constant [printing of money](https://fred.stlouisfed.org/series/M2SL) wi
 
 ## Which coins should I buy according to you?:
 
-Safest coins (most likely to be around in 10 years). Lower returns but less risk.
+The general advice is to buy when you hear phrases like '1 year low', rather than buy when it's at 'all time high'.
+If you start hearing 'all time high' then it's probably time to sell.
+
+
+The safest coins (most likely to be around in 10 years). Lower returns but less risk.
 ```
 Bitcoin
 Ethereum
 ```
 
+I think having been in the market a long time. 
+
 More risky coins that have huge communities or ecosystems that will probably still be around:
 ```
 Solana (SOL)
-Polkadot (DOT)
 Cardano (ADA)
 Ripple (XRP)
-Stellar Lumens (XLM)
 ```
 
 ## Potentially also good but highly risky 
 Very high risk, very high reward.
 ```
 Avalanche (AVAX)
-Elrond eGold (EGLD)
 Lukso (LXYe)
-Atom (ATOM)
-Fantom (FTM)
 MetisDao (METIS)
 ```
 
@@ -65,8 +66,10 @@ NGMI - Not Gonna Make It
 
 #### Youtube Channels:
 
+Both of these are pretty good for finding about new coins.
+
 [CoinBureau](https://www.youtube.com/c/CoinBureau/videos?view=0&sort=p&flow=grid)
 
-
+[CryptosRus](https://www.youtube.com/c/CryptosRUs)
 
 

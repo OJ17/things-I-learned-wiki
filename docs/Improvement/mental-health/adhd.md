@@ -7,7 +7,8 @@ sidebar_position: 6
 ### Summary: 
 
 Disorder of executive regulation. Makes it hard to focus. 
-Two primary axes.
+Two primary axes of Inattentive and hyperactive.
+
 
 
 Boredom is part of the phased transition towards a lower level of stimulation
@@ -27,3 +28,6 @@ Body Doubling (one of the best strategies I know):
 
 [Ologies with Russell Barkley](https://www.alieward.com/ologies/adhd)
 
+### Concepts:
+
+Hyperfocus

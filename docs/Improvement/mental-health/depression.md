@@ -16,6 +16,7 @@ sidebar_position: 6
 * Maintain a good diet
 * Do meditation daily
 * Stop drinking alcohol
+* action > thinking. So just start working. "Mood follows action".
 
 If it is not possible to accomplish these things (such as having insomnia) 
 then seek medical advice in order resolve the fundamental problems first.
