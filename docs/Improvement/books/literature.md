@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary: 
 
-good literature I've read
+Good literature I've read
 
 ### Classics:
 

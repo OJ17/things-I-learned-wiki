@@ -16,7 +16,7 @@ sidebar_position: 6
 
 ### Buy pre-cooked food:
 
-Essentially you should try and outsource certain activity so you can focus your attention on 
+Essentially you should try and outsource certain activities, so you can focus your attention on 
 higher quality ones.
 
 ### People:

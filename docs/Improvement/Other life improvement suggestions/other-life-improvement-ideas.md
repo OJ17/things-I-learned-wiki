@@ -12,13 +12,13 @@ Gratitude lists
 
 Cutting out the news 100%
 
-cutting out toxic people from your life
+Cutting out toxic people from your life
 
 surrounding yourself with positive / successful people
 
 Volunteering
 
-massage
+Massage
 
 Chew often
 
