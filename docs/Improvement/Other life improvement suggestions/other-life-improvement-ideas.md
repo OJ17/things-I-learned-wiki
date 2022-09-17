@@ -22,8 +22,6 @@ Massage
 
 Chew often
 
-Chrome extensions and productivity software
-
 Everybody is fighting something
 
 Saliva is good for teeth

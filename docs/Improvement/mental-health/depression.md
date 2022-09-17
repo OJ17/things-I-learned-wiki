@@ -44,7 +44,7 @@ effective than placebo. Nonetheless they do help some people.
 
 ### concepts:
 
-CBT
+CBT (Cognitive behavioural therapy)
 
 
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary: 
 
-Read audiobooks at 2* - 3* speed. Recall will fall, but 
+Read audiobooks at 1.5* - 2.5* speed. Recall will fall, but 
 in exchange you will be able to read a book in 3-4 hours
 and then up to 5 books in a day.
 

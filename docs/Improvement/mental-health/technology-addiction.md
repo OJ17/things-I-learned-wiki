@@ -9,6 +9,16 @@ now more than ever it is easier to waste time online.
 
 
 
+# Resources
+
+[Focusmate](https://www.focusmate.com/)
+
+
+
+
+
+
+
 
 
 
