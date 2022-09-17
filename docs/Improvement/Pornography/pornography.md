@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# The effects of pornography use
+# The effects of Pornography use
 
 ### Summary:
 
@@ -37,6 +37,8 @@ My personal take is that it's probably best decided on a case-by-case basis. And
 [Effects of Pornography](https://en.wikipedia.org/wiki/Effects_of_pornography)
 
 ### Books:
+
+In a lot of ways this book also serves as an introduction to the harms of `high-dopamine behaviours` (drugs, porn, video games, internet use):
 
 [Your brain on Porn - Book](https://www.goodreads.com/book/show/23121356-your-brain-on-porn?from_search=true&from_srp=true&qid=4WaeelcxmO&rank=1)
 
