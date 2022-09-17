@@ -23,7 +23,8 @@ Bitcoin
 Ethereum
 ```
 
-I think having been in the market a long time. 
+I think having been in the market a long time that for most people it's probably better to play it safe and keep the 
+majority of your holdings in Bitcoin and Ethereum.
 
 More risky coins that have huge communities or ecosystems that will probably still be around:
 ```

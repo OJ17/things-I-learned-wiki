@@ -44,7 +44,7 @@ Stanford Encyclopedia of philosophy:
 
 Good free source of journal articles for health / diet, etc.:
 
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 
 

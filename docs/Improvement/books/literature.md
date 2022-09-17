@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Summary: 
 
-good literature I've read
+Good literature I've read
 
 ### Classics:
 
@@ -26,9 +26,11 @@ Stoner - John Williams
 Flowers for Algernon - Daniel Keyes
 
 
+
+
 ### books:
 
-https://www.goodreads.com/book/show/12749.Swann_s_Way?ac=1&from_search=true&qid=MCA9Gd1zqS&rank=1
+[Swann's way](https://www.goodreads.com/book/show/12749.Swann_s_Way?ac=1&from_search=true&qid=MCA9Gd1zqS&rank=1)
 
 
 

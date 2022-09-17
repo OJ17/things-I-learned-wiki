@@ -7,8 +7,11 @@ sidebar_position: 6
 ### Cartoons:
 
 [Gravity Falls](https://www.imdb.com/title/tt1865718/)
+
 [The Simpsons (up to season 12)](https://www.imdb.com/title/tt0096697/)
+
 [Futurama](https://www.imdb.com/title/tt0149460/)
+
 [Adventure Time](https://www.imdb.com/title/tt1305826/)
 
 ### Documentaries:

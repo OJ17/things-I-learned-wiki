@@ -25,6 +25,16 @@ to arrive.
 (There are possibly other free apps such as Insight Timer which are appreantly good)
 
 
+Apps:
+
+[Calm](https://www.calm.com/)
+
+[Headspace](https://www.headspace.com/)
+
+[Insight Timer](https://insighttimer.com/en-gb)
+
+
+
 ### Wiki:
 
 [Effects of meditation](https://en.wikipedia.org/wiki/Effects_of_meditation)

@@ -12,6 +12,16 @@ sidebar_position: 6
 
 [LeechBlock](https://chrome.google.com/webstore/detail/leechblock-ng/blaaajhemilngeeffpbfkdjjoefldkok)
 
+[Pause - Stop Mindless Browsing](https://chrome.google.com/webstore/detail/pause-stop-mindless-brows/ljfdccdjpfjpfjbpdiihanpodilolofh)
+
+[StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en-GB)
+
+## Productivity software:
+
+[Freedom](https://freedom.to/dashboard)
+
+
+
 
 
 

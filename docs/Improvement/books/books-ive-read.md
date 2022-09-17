@@ -8,7 +8,7 @@ sidebar_position: 6
 
 [Books I've read](https://www.goodreads.com/user/show/59442190-iostream)
 
-### Books i'd recommend:
+### Books I'd recommend:
 
 This is just a generic list of some really cool books I read. Actually there are some great books
 that aren't on this list simply because they are too long.

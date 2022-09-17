@@ -20,7 +20,7 @@ Cardio seems better for mental health.
 
 ## Conclusion:
 
-exercise regularly. Cardio and resistance training both have benefits.
+Exercise regularly. Cardio and resistance training both have benefits.
 
 At least exercise a few hours a week.
 

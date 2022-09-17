@@ -12,7 +12,7 @@ Philosophy:
 
 Technology:
 
-[Meta Keynote](https://www.youtube.com/watch?v=Uvufun6xer8)
+[Meta Keynote - Introduction to the metaverse](https://www.youtube.com/watch?v=Uvufun6xer8)
 
 UFOs / UAPs:
 

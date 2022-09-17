@@ -56,6 +56,7 @@ Celeste (2018)
 Borderlands 3 (2019)
 Fallout 3 (2008)
 Disgaea: hour of darkness (2003)
+Nuclear Throne (2015)
 Sekiro: Shadows Die Twice (2019)
 ```
 
@@ -65,21 +66,11 @@ The Elder Scrolls V: Skyrim (2011)
 The Legend of Zelda: Breath of the Wild (2017)
 GTA: San Andreas, GTA 4, GTA V (unsure which one is best)
 Bloodborne (2015) + 
-Basically any FromSoftware game from Dark souls onwards.
+Basically any FromSoftware game from Dark Souls onwards.
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-### Video games i've played:
+### Video games I've played:
 
 [Video games I've played](https://www.grouvee.com/user/136979-Exirr/shelves/)
 
