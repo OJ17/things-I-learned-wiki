@@ -18,7 +18,6 @@ sidebar_position: 6
 
 ![Dark Souls 3](../../../static/img/game-cover-art/dark-souls-3-cover.webp)
 
-
 4. Enter the Gungeon (2016)
    
 ![Enter the Gungeon](../../../static/img/game-cover-art/enter-the-gungeon-cover.jpeg)
@@ -58,6 +57,7 @@ Fallout 3 (2008)
 Disgaea: hour of darkness (2003)
 Nuclear Throne (2015)
 Sekiro: Shadows Die Twice (2019)
+Kaze and the wild masks (2021)
 ```
 
 Games I'd like to play one day:
@@ -65,6 +65,8 @@ Games I'd like to play one day:
 The Elder Scrolls V: Skyrim (2011)
 The Legend of Zelda: Breath of the Wild (2017)
 GTA: San Andreas, GTA 4, GTA V (unsure which one is best)
+Horizon: Zero Dawn (2017)
+Ghost of Tsushima (2020)
 Bloodborne (2015) + 
 Basically any FromSoftware game from Dark Souls onwards.
 ```
