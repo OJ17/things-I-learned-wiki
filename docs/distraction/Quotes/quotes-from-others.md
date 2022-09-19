@@ -61,6 +61,7 @@ L.P. Hartley
 
 `"I know of no other manner of dealing with great tasks than as play"` - Friedrich Nietzsche
 
+`"Mental illness is a terrible thing to have to cope with but I’ve learnt it’s a fight you can win if you live your life the right way”.` - Frank Bruno
 
 
 

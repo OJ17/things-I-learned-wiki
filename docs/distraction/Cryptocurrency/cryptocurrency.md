@@ -36,10 +36,15 @@ Ripple (XRP)
 ## Potentially also good but highly risky 
 Very high risk, very high reward.
 ```
-Avalanche (AVAX)
 Lukso (LXYe)
 MetisDao (METIS)
 ```
+
+Lukso:
+![Lukso](../../../static/img/crypto/lukso.png)
+
+Metis:
+![Metis](../../../static/img/crypto/metis.jpeg)
 
 ## Articles:
 
