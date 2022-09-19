@@ -327,6 +327,8 @@ Kyal Sin (19 year old protester who died)
 Russell Barkely (ADHD expert)
 Evel Knievel (stuntman)
 Elvis Presley (Singer)
+Henrietta lacks (https://en.wikipedia.org/wiki/Henrietta_Lacks)
+ / `The immortal life of Henrietta Lacks`
 ```
 
 ### Some people I dislike the ideas of:

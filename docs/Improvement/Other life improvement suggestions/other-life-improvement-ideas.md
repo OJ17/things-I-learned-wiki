@@ -16,11 +16,11 @@ Cutting out toxic people from your life
 
 surrounding yourself with positive / successful people
 
-Volunteering
+Volunteering (psychological benefits)
 
-Massage
+Massage (health benefits of touch)
 
-Chew often
+Chew often (to strengthen Jaw muscles)
 
 Everybody is fighting something
 
@@ -37,19 +37,10 @@ Using a smart watch to save time in checking for notifications
 
 Walking after eating - By doing this you help speed up digestion and lower your blood sugar level
 
+Buy pre-cooked food to save cooking time / Essentially you should try and outsource certain activities, so you can focus your attention on
+higher quality ones.
 
 
-
-### concepts:
-
-
-
-
-### books:
-
-
-
-### Quotes:
 
 
 

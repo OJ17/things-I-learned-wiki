@@ -24,6 +24,8 @@ For me I was dealing with `technology addiction` and you can read about that sec
 
 The other aspect is about understanding why you are wasting time. 
 
+A `dopamine detox` is worth considering. But essentially this may not be about dopamine, but about 
+refusing to spend time on low value activities.
 
 
 ### Wiki:
