@@ -20,8 +20,7 @@ To make the technology work with you and not against you. This is not about reje
 technology, it is about using it in a way that takes you towards, and not away from your goals.
 
 
-For me I was dealing with `technology addiction` and you can read about that section there for suggestions.
-About how to avoid it.
+For me I was dealing with `technology addiction` and you can read about that section there for suggestions.  about how to avoid it.
 
 The other aspect is about understanding why you are wasting time. 
 

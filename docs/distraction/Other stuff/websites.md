@@ -18,7 +18,6 @@ Twitter accounts with short viral video:
 [mischeif animals](https://twitter.com/mischiefanimals)
 
 
-
 ### websites:
 
 Nice image search alternative to google:
@@ -28,6 +27,10 @@ Nice image search alternative to google:
 Some nice data here:
 
 [Our-world-in-data](https://ourworldindata.org/)
+
+Good place for infographics, although not sure about their sources / truthfulness:
+
+[VisualCapitalist](https://www.visualcapitalist.com/)
 
 Great website for Drug info / drug trip reports:
 
