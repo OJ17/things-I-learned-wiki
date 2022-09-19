@@ -35,6 +35,9 @@ use an electric toothbrush
 
 Using a smart watch to save time in checking for notifications
 
+Walking after eating - By doing this you help speed up digestion and lower your blood sugar level
+
+
 
 
 ### concepts:
