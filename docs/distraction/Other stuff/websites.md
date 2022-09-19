@@ -8,7 +8,6 @@ sidebar_position: 6
 
 [Gwern](https://www.gwern.net/)
 
-[Alicia Sykes](https://notes.aliciasykes.com/)
 
 ### Entertainment websites 
 

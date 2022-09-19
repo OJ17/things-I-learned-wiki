@@ -31,21 +31,24 @@ For most people a quiet, cool dark place is better.
 * Hard exercise can improve sleep quality.
 
 
-### Sleep hygeine
+## Other things to try
+* Improve Sleep Hygeine (limited evidence)
+* Weighted Blanket
+* Magnesium supplementation
+* Cognitive Behavioural Therapy for Insomnia - (CBTi)
 
 
 ### Conclusion:
 
-Make sleep a priority. If you can't sleep right do everything you can to fix it.
-If you get one thing right sleep has to be a high candidate.
+Ideally it's good to sleep for 7-8 hours a day (although this varies between individuals). 
+And it's not the end of the world if you can't manage to sleep that much though, sometimes getting 
+stressed or overly conscious about bad sleep makes it worse.
+
 
 
 ### Wiki:
 
 
-### Books:
-
-[Why we sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 
 ### Courses:
 
