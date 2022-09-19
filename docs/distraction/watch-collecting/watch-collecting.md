@@ -32,7 +32,7 @@ to spend it on education, investment, charity, or an amazing holiday if you have
 Watches aren't an investment. They are unreasonably expensive, unnecessary, and 
 honestly just all around it's a bad hobby to get into. It's time consuming, materialistic, and at the end of it nothing changed. 
 Like you could be walking round with a highly expensive watch on your wrist and your life would be exactly the same exept your 
-bank account is less.
+bank account is less. And ultimately it's highly unlikely you will be completely unhappy with the watch that you get. 
 
 Of course, it's fun to read about them and why one watch can cost £10 and another costs £500,000. Ultimately though 
 better to spend that same time and energy on something actually worthwhile.

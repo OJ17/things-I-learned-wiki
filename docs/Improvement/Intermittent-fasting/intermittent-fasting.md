@@ -22,18 +22,8 @@ I'm currently using this one, and it's quite helpful. There may be better ones o
 
 ### Concept:
 
-Ketosis
+[Ketosis](https://en.wikipedia.org/wiki/Ketosis)
 
 Water fasting
-
-
-
-
-
-
-
-
-
-
 
 

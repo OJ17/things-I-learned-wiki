@@ -14,6 +14,8 @@ sidebar_position: 6
 
 [Pause - Stop Mindless Browsing](https://chrome.google.com/webstore/detail/pause-stop-mindless-brows/ljfdccdjpfjpfjbpdiihanpodilolofh)
 
+[Limit - Set Limits for Distracting Sites](https://chrome.google.com/webstore/detail/limit-set-limits-for-dist/blcdfhbibkkjpfdddnmnmhfgjlicebba)
+
 [StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en-GB)
 
 ## Productivity software:

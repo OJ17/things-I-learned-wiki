@@ -38,6 +38,7 @@ sidebar_position: 6
 
 ![be the boss Quote](../../../static/img/quotes/be-the-boss.png)
 
+![Epictetus reaction quote](../../../static/img/quotes/epictetus-reaction-quote.jpg)
 
 
 

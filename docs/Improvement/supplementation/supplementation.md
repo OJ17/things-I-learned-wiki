@@ -23,3 +23,4 @@ Take Vitamin D if you live in a northern climate.
 
 [Vitamin D](https://www.youtube.com/watch?v=tBSfIckPV44)
 
+![Vitamin D](../../../static/img/academic/vitamin-d.jpeg)

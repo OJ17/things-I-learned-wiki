@@ -20,4 +20,5 @@ sidebar_position: 6
 
 [Jonestown massacre - Over 900 dead](https://en.wikipedia.org/wiki/Jonestown)
 
-
+[Death of Yuri Lipski - Wikipedia](https://en.wikipedia.org/wiki/Blue_Hole_(Red_Sea)#Death_of_Yuri_Lipski) / 
+[Fatal diving accident caught on tape: Yuri Lipski](https://www.youtube.com/watch?v=cRj0lymMMGs)

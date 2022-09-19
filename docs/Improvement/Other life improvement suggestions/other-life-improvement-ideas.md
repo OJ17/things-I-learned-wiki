@@ -24,10 +24,6 @@ Chew often
 
 Everybody is fighting something
 
-Saliva is good for teeth
-
-improving memory via Mnemonics
-
 Ulysses contract
 
 "hourly awareness chimes" / a temporary process of setting an alarm

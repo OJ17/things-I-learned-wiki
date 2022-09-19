@@ -6,8 +6,6 @@ sidebar_position: 6
 
 ### Summary:
 
-* Use a calendar
-
 The key to being productive is cutting out things that don't matter.
 
 This is the sacrifice that is necessary to attain your goals.
@@ -21,6 +19,10 @@ The journey to success begins in the mastery of your thoughts.
 So you must first take control of these 6000 thoughts. It is not necessarily 
 better to work 16 hours a day, compared to working 10 hours a day consistently.
 Sometimes less is more. Especially if you will feel burnout from working 16 hours.
+
+### Software
+
+[Things 3 (mac)](https://culturedcode.com/things/)
 
 
 

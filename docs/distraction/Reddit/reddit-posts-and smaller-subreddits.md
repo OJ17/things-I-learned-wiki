@@ -55,7 +55,7 @@ sidebar_position: 6
 
 [Kitten walks on a rotating wheel](https://www.reddit.com/r/aww/comments/slzgux/ever_wondered_how_this_subreddit_is_powered/)
 
-[Cat jumps smoothly on a bed](https://www.reddit.com/r/BetterEveryLoop/comments/asnebf/cat_goes_boing/)
+[Cat jumps smoothly onto a bed](https://www.reddit.com/r/BetterEveryLoop/comments/asnebf/cat_goes_boing/)
 
 
 
