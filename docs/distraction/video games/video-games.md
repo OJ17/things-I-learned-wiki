@@ -69,6 +69,7 @@ Horizon: Zero Dawn (2017)
 Ghost of Tsushima (2020)
 Bloodborne (2015) + 
 Basically any FromSoftware game from Dark Souls onwards.
+Various Super mario games (incl. Super mario 3, Super mario Galaxy, paper, Odyssey)
 ```
 
 

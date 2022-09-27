@@ -43,6 +43,3 @@ https://www.youtube.com/watch?v=9QiE-M1LrZk)
 
 [The ONLY way to stop procrastinating | Mel Robbins](
 https://www.youtube.com/watch?v=4x7MkLDGnu8)
-
-
-
