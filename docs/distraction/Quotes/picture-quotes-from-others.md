@@ -42,3 +42,5 @@ sidebar_position: 6
 
 ![It gets easier](../../../static/img/quotes/it-gets-easier.webp)
 
+![determined Being](../../../static/img/quotes/determined-being.jpg)
+

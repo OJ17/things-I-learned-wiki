@@ -4,6 +4,9 @@ sidebar_position: 6
 
 # YouTube videos
 
+Psychology:
+
+[Comfort Will Ruin Your Life](https://www.youtube.com/watch?v=F5-qkgfBeuU)
 
 Technology:
 
@@ -62,7 +65,7 @@ Lots of similar videos if you search `TCAP` or `To catch a predator`
 
 Philosophy:
 
-[Alan Watts - Life and Music](https://www.youtube.com/watch?v=ERbvKrH-GC4)
+[Alan Watts - Life is like music](https://www.youtube.com/watch?v=ERbvKrH-GC4)
 
 Music / random meme songs:
 

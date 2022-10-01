@@ -71,6 +71,11 @@ L.P. Hartley
 
 `"The difference between successful people and really successful people is that really successful people say no to almost everything."` - Warren Buffett
 
+`“There are decades where nothing happens; and there are weeks where decades happen.”` - Vladimir Ilyich Lenin
+
+
+
+
 
 ### Links:
 
