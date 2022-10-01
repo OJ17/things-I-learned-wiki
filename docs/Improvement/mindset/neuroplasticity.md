@@ -23,7 +23,7 @@ Myelination, hormesis, eustress
 
 ### Books:
 
-[The brain that changes itself(https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself)
+[The brain that changes itself](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself)
 
 
 
