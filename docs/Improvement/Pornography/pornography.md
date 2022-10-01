@@ -22,7 +22,7 @@ Some of the key potential harms are related to:
 * Addiction and wasting time
 * Altering reward pathways in the brain
 * Altering sexual preferences towards extremes
-* Delayed Ejaculation, Erectile dysfunction
+* Delayed ejaculation, erectile dysfunction
 
 I think this one where the jury is still out. With some claiming that pornography is totally fine
 and other claiming it's going to ruin your life. The truth is probably somewhere in the middle.
