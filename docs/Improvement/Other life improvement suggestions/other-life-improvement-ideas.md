@@ -40,6 +40,9 @@ Walking after eating - By doing this you help speed up digestion and lower your 
 Buy pre-cooked food to save cooking time / Essentially you should try and outsource certain activities, so you can focus your attention on
 higher quality ones.
 
+Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly)
+
+
 
 
 

@@ -4,11 +4,6 @@ sidebar_position: 6
 
 # YouTube videos
 
-Philosophy:
-
-[Alan watts - The dream of life](https://www.youtube.com/watch?v=wU0PYcCsL6o)
-
-[Alan watts - Chinese farmer](https://www.youtube.com/watch?v=byQrdnq7_H0)
 
 Technology:
 

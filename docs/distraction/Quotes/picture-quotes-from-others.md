@@ -40,5 +40,5 @@ sidebar_position: 6
 
 ![Epictetus reaction quote](../../../static/img/quotes/epictetus-reaction-quote.jpg)
 
-
+![It gets easier](../../../static/img/quotes/it-gets-easier.webp)
 

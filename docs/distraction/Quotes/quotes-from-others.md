@@ -6,6 +6,8 @@ sidebar_position: 6
 
 ### Summary:
 
+`"Compare yourself to who you were yesterday, not to who someone else is today."` - Jordan Peterson
+
 `"Where ignorance is bliss, 'tis folly to be wise."` - Thomas Gray
 
 `"There are two ways to enslave a nation.
@@ -61,13 +63,13 @@ L.P. Hartley
 
 `"I know of no other manner of dealing with great tasks than as play"` - Friedrich Nietzsche
 
-`"Mental illness is a terrible thing to have to cope with but I’ve learnt it’s a fight you can win if you live your life the right way”.` - Frank Bruno
-
-`"Hark ye yet again—the little lower layer. All visible objects, man, are but as pasteboard masks. But in each event—in the living act, the undoubted deed—there, some unknown but still reasoning thing puts forth the mouldings of its features from behind the unreasoning mask. If man will strike, strike through the mask! How can the prisoner reach outside except by thrusting through the wall? To me, the white whale is that wall, shoved near to me. Sometimes I think there's naught beyond. But 'tis enough. He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him. Talk not to me of blasphemy, man; I'd strike the sun if it insulted me. For could the sun do that, then could I do the other; since there is ever a sort of fair play herein, jealousy presiding over all creations. But not my master, man, is even that fair play."` - Herman Melville, Moby Dick
+`"Mental illness is a terrible thing to have to cope with but I’ve learnt it’s a fight you can win if you live your life the right way".` - Frank Bruno
 
 `"It's not what happens to you, but how you react to it that matters."` - Epictetus
 
+`"Every day it gets a little easier… But you gotta do it every day. that’s the hard part. But it does get easier."` - BoJack Horseman
 
+`"The difference between successful people and really successful people is that really successful people say no to almost everything."` - Warren Buffett
 
 
 ### Links:
