@@ -60,6 +60,10 @@ Lots of similar videos if you search `TCAP` or `To catch a predator`
 
 [Fibre Optic cables, how do they work](https://www.youtube.com/watch?v=0MwMkBET_5I)
 
+Philosophy:
+
+[Alan Watts - Life and Music](https://www.youtube.com/watch?v=ERbvKrH-GC4)
+
 Music / random meme songs:
 
 [How to draw a crowd from nowhere](https://www.youtube.com/watch?v=awX9XkPG5oY)
