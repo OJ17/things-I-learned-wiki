@@ -18,6 +18,9 @@ sidebar_position: 6
 
 [StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en-GB)
 
+[News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)
+
+
 ## Productivity software:
 
 [Freedom](https://freedom.to/dashboard)
