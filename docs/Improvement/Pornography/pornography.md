@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# The effects of Pornography use
+# pornography use
 
 ### Summary:
 

@@ -44,5 +44,7 @@ https://www.youtube.com/watch?v=9QiE-M1LrZk)
 [The ONLY way to stop procrastinating | Mel Robbins](
 https://www.youtube.com/watch?v=4x7MkLDGnu8)
 
-[A good podcast on procrastination](
+## Podcast
+
+[Tim Pychyl on Procrastination](
 https://omny.fm/shows/the-one-you-feed/tim-pychyl-on-procrastination)
