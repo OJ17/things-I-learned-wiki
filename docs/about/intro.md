@@ -28,6 +28,11 @@ repeating the same things, or trying to find links, books recommendations, etc. 
 
 Of course, much like myself, it is a work in progress but hopefully it can help others in some way to avoid making all the mistakes I made.
 
+### Contact me:
+
+e-mail: `oj3@protonmail.com`
+
+
 
 
 

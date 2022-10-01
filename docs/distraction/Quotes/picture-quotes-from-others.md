@@ -44,3 +44,5 @@ sidebar_position: 6
 
 ![determined Being](../../../static/img/quotes/determined-being.jpg)
 
+![T.S eliot](../../../static/img/quotes/everything-is-different.jpg)
+
