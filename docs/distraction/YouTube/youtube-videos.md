@@ -16,7 +16,8 @@ Technology:
 
 UFOs / UAPs:
 
-Bob Lazar's story is probably BS, but this is pretty interesting at the very least.
+Bob Lazar's story is probably BS, but this is pretty interesting at the very least:
+
 [Joe Rogan - Bob Lazar](https://www.youtube.com/watch?v=BEWz4SXfyCQ)
 
 [Pentagon officially releases 'UFO' videos](https://www.youtube.com/watch?v=auITEKd4sjA)

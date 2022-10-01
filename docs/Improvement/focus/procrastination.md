@@ -36,10 +36,13 @@ refusing to spend time on low value activities.
 
 
 
-### Youtube Videos:
+### YouTube Videos:
 
 [How I tricked my brain into doing hard things: dopamine detox](
 https://www.youtube.com/watch?v=9QiE-M1LrZk)
 
 [The ONLY way to stop procrastinating | Mel Robbins](
 https://www.youtube.com/watch?v=4x7MkLDGnu8)
+
+[A good podcast on procrastination](
+https://omny.fm/shows/the-one-you-feed/tim-pychyl-on-procrastination)
