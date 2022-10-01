@@ -43,7 +43,3 @@ higher quality ones.
 Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly)
 
 
-
-
-
-
