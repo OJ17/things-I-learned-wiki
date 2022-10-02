@@ -8,6 +8,10 @@ Psychology:
 
 [Comfort Will Ruin Your Life](https://www.youtube.com/watch?v=F5-qkgfBeuU)
 
+[The question you need to ask yourself](https://www.youtube.com/watch?v=Ckj33-567g0)
+
+[Andrew Huberman - The power of your expectations](https://www.youtube.com/watch?v=IewbT1ZdhEA)
+
 Technology:
 
 [Meta Keynote - Introduction to the metaverse](https://www.youtube.com/watch?v=Uvufun6xer8)
