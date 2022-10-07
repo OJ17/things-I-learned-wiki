@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Spaced repetition
+# Spaced repetition (anki)
 
 ### Summary:
 

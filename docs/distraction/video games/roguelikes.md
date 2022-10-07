@@ -2,9 +2,9 @@
 sidebar_position: 6
 ---
 
-# Video games
+# Roguelikes
 
-### Some of the best Roguelikes according to me (2022):
+### best roguelikes i've played:
 
 1. Nuclear Throne (2015)
 

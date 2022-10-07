@@ -42,4 +42,13 @@ higher quality ones.
 
 Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly)
 
+### Small tips and tricks
+
+I'm sure 99% of you know this stuff, but just in case you don't!
+
+* Blow on hot food to cool it down, so you can eat faster (also works for stupidly hot coffee).
+
+
+
+
 

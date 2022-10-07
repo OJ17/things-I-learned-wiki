@@ -73,7 +73,7 @@ L.P. Hartley
 
 `“There are decades where nothing happens; and there are weeks where decades happen.”` - Vladimir Ilyich Lenin
 
-
+`"All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."` - Arthur Schopenhauer
 
 
 

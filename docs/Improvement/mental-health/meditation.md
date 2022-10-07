@@ -31,6 +31,8 @@ Apps:
 
 [Headspace](https://www.headspace.com/)
 
+[Waking Up](https://www.wakingup.com/)
+
 [Insight Timer](https://insighttimer.com/en-gb)
 
 

@@ -27,7 +27,7 @@ A good lesson to remember is:
 
 ### links:
 
-[Plan your days out](https://www.scoro.com/blog/studies-on-productivity/)
+[Studies on productivity](https://www.scoro.com/blog/studies-on-productivity/)
 
 [Start the day strong](https://www.youtube.com/watch?v=jBwM-mCLQQo)
 

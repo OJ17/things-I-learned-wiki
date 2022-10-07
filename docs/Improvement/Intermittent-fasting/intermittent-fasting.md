@@ -17,7 +17,7 @@ Although the hours are individual preference as long as you have a 16-hour block
 
 I'm currently using this one, and it's quite helpful. There may be better ones on the market though.
 
-[FastingApp](https://play.google.com/store/apps/details?id=bodyfast.zero.fastingtracker.weightloss&hl=en_GB&gl=US)
+[Fasting Tracker](https://play.google.com/store/apps/details?id=bodyfast.zero.fastingtracker.weightloss&hl=en_GB&gl=US)
 
 
 ### Concept:
