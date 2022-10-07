@@ -147,7 +147,7 @@ Terence Tao
 Paul Erdős
 ```
 
-### Blockchain
+### Blockchain:
 ```
 Vitalik Buterin
 ```
