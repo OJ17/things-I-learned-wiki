@@ -73,6 +73,8 @@ L.P. Hartley
 
 `“There are decades where nothing happens; and there are weeks where decades happen.”` - Vladimir Ilyich Lenin
 
+`"We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons."` - Jim Rohn
+
 `"All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."` - Arthur Schopenhauer
 
 `“We suffer more often in imagination than in reality”` ― Lucius Annaeus Seneca
