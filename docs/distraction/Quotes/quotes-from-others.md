@@ -75,6 +75,7 @@ L.P. Hartley
 
 `"All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."` - Arthur Schopenhauer
 
+`“We suffer more often in imagination than in reality”` ― Lucius Annaeus Seneca
 
 
 ### Links:

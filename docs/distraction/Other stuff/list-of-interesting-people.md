@@ -344,7 +344,7 @@ Margaret Thatcher
 Edward Bernays
 ```
 
-### MMA
+### Mixed Martial Arts:
 ```
 Jon Jones
 Fedor Emilianenko
