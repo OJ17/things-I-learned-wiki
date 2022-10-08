@@ -18,6 +18,12 @@ sidebar_position: 6
 
 [ghosts](https://www.reddit.com/r/ghosts/top/?t=all)
 
+[iamverybadass](https://www.reddit.com/r/iamverybadass/top/?t=all)
+
+[crappyoffbrands](https://www.reddit.com/r/crappyoffbrands/top/?t=all)
+
+[oddlyterrifying](https://www.reddit.com/r/oddlyterrifying/top/?t=all)
+
 [MyPeopleNeedMe](https://www.reddit.com/r/MyPeopleNeedMe/top/?t=all)
 
 [MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
