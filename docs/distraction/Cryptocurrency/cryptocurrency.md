@@ -46,6 +46,13 @@ Lukso:
 Metis:
 ![Metis](../../../static/img/crypto/metis.jpeg)
 
+
+## My current crypto assets by %:
+
+I am quite risk tolerant here. I accept a high level of risk by investing in smaller projects for the chance of higher potential rewards.
+
+![breakdown](../../../static/img/crypto/crypto-breakdown.svg)
+
 ## Articles:
 
 [Speculative bitcoin Adoption / price theory](https://medium.com/@mcasey0827/speculative-bitcoin-adoption-price-theory-2eed48ecf7da)
