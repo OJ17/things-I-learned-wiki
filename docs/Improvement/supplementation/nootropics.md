@@ -26,11 +26,13 @@ CBD oil - [Need to research this more. before giving a better summary. So far se
 
 Caffeine - Not great for me on balance. 
 
+Creatine Monohydrate (espeically for Vegans) - Currently Experimenting
+
 ### Conclusion:
 
-Focus on sleep, exercise, and work first.
+Focus on sleep, exercise, social life, and work first.
 
-Modafinil is a standout. I am currently doing more research but initial results are promising.
+Modafinil is a standout. I am currently doing more research but initial results are highly promising.
 
 Depending on your tolerance for caffeine then drinking a cup or two of green tea on a morning can be 
 really useful. Of course, it may cause sleep issues for those sensitive to it.

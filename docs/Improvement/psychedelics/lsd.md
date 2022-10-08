@@ -18,8 +18,3 @@ ways of thinking.
 ### Books:
 
 
-
-https://www.technologynetworks.com/neuroscience/news/psychedelic-compound-psilocybin-can-remodel-connections-in-the-brain-350530
-
-
-

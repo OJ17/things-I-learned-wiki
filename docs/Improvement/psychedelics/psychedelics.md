@@ -18,7 +18,6 @@ sidebar_position: 6
 [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo](https://pubmed.ncbi.nlm.nih.gov/34228959/)
 
 
-
 ### Books:
 
 [DMT - The spirit Molecule](https://www.goodreads.com/book/show/51654.DMT)
