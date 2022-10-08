@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Roguelikes
 
-### best roguelikes i've played:
+### best roguelikes I've played:
 
 1. Nuclear Throne (2015)
 
