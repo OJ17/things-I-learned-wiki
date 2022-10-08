@@ -16,7 +16,6 @@ Poor dental health consequences:
 
 
 
-
 ### Conclusion:
 
 Brush your teeth twice a day and make sure to floss

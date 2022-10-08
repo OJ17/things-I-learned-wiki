@@ -59,7 +59,7 @@ higher quality ones.
 * Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly).
 
 
-* track your time for a week to really understand where it's going. 
+* track your time for a week to really understand where it's going. For example using [Toggl.com](https://toggl.com/) 
 
 
 ### Small tips and tricks
@@ -68,6 +68,11 @@ I'm sure 99% of you know this stuff, but just in case you don't!
 
 * Blow on hot food to cool it down, so you can eat faster (also works for stupidly hot coffee).
 
+
+* Don't eat 4 hour before sleeping as it can interfere with sleep
+
+
+``
 
 
 

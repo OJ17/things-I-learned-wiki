@@ -6,11 +6,12 @@ sidebar_position: 6
 
 ### Summary: 
 Increases gray matter in pre-frontal cortex. Makes you more calm, less stressed,
-more able to control your own behaviour, 
+more able to control your own behaviour. Also it makes you more productive as it helps increase focus.
 
 Thinking more is not necessarily better. In fact thinking less, but applying more 
-will far succeed relentless thought.
-
+will far succeed relentless thought. In my case often my thoughts are repetitive, or just not in any way constuctive.
+So by being mindful of them, you can start reclaim that wasted mental energy on something positive and proactive. Rather than
+ being the person who complains or feels sorry for themselves.
 
 
 ### Process:
