@@ -6,41 +6,61 @@ sidebar_position: 6
 
 ### Summary: 
 
-Positive affirmations
+* Positive affirmations
 
-Gratitude lists
 
-Cutting out the news 100%
+* Gratitude lists
 
-Cutting out toxic people from your life
 
-surrounding yourself with positive / successful people
+* Cutting out the news 100%
 
-Volunteering (psychological benefits)
 
-Massage (health benefits of touch)
+* Cutting out toxic people from your life
 
-Chew often (to strengthen Jaw muscles)
 
-Everybody is fighting something
+* Surrounding yourself with positive / successful people
 
-Ulysses contract
 
-"hourly awareness chimes" / a temporary process of setting an alarm
+* Volunteering (psychological benefits)
+
+
+* Massage (health benefits of touch)
+
+
+* Chew often (to strengthen Jaw muscles)
+
+
+* Everybody is fighting something
+
+
+* Ulysses contract
+
+
+* "hourly awareness chimes" / a temporary process of setting an alarm
 every hour, checking that you are productive or not
 
-Dopamine Detox (i.e. be bored for a while)
 
-use an electric toothbrush
+* Dopamine Detox (i.e. be bored for a while)
 
-Using a smart watch to save time in checking for notifications
 
-Walking after eating - By doing this you help speed up digestion and lower your blood sugar level
+* Use an electric toothbrush. It is more effective and will pay for itself in reduced dental fees / pain
 
-Buy pre-cooked food to save cooking time / Essentially you should try and outsource certain activities, so you can focus your attention on
+
+* Using a smartwatch to save time in checking for notifications
+
+
+* Walking after eating - By doing this you help speed up digestion and lower your blood sugar level
+
+
+* Buy pre-cooked food to save cooking time / Essentially you should try and outsource certain activities, so you can focus your attention on
 higher quality ones.
 
-Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly)
+
+* Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly).
+
+
+* track your time for a week to really understand where it's going. 
+
 
 ### Small tips and tricks
 
