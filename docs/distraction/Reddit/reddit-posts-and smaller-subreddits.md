@@ -28,6 +28,8 @@ sidebar_position: 6
 
 [Science](https://www.reddit.com/r/science/top/?t=all)
 
+[Starterpacks](https://www.reddit.com/r/starterpacks/top/?t=year)
+
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
 
 [That happened](https://www.reddit.com/r/thatHappened/top/?t=all)
@@ -59,7 +61,7 @@ sidebar_position: 6
 
 [Principles of Topology](https://www.reddit.com/r/Damnthatsinteresting/comments/umgnnb/principles_of_topology/)
 
-
+[Why do I feel so good all the time starterpack](https://www.reddit.com/r/starterpacks/comments/6wszws/why_do_i_feel_so_good_all_the_time_starterpack/)
 
 
 

@@ -123,5 +123,7 @@ Here are some of the better ones I've found.
 
 [youseeingthisshit](https://www.reddit.com/r/youseeingthisshit/top/?t=all)
 
+Can check this for a full list too:
 
+[redditList](http://redditlist.com/)
 

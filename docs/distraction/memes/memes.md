@@ -22,6 +22,9 @@ sidebar_position: 6
 
 ![40-years-old-men](../../../static/img/memes/40-years-old-men.jpeg)
 
+
+[]
+
 ### Gifs:
 
 ![microsoft-minecraft](../../../static/img/memes/microsoft-mincraft.gif)
