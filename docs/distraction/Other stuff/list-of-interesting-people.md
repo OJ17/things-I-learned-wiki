@@ -6,273 +6,251 @@ sidebar_position: 6
 
 ### Philosophers:
 ```
-Peter Singer
-John Stuart Mill
-Jeremy Bentham
-John Rawls
-Socrates
+Alfred North Whitehead
+Aristotle
+Arthur Schopenhauer
+Bertrand Russell
+Bryan Magee (For his TV interviews)
+Confucius
+Democritus
+Daniel Dennett
+David Hume
+Edmund Husserl
+Epictetus
+Epicurus
+G.E. Moore
+G. W. F. Hegel
+Gilbert Ryle
+Friedrich Engels
 Friedrich Nietzsche
 Fyodor Dostoyevsky
-Jean-Paul Sartre
-Karl Marx
-Friedrich Engels
-Bertrand Russell
-Immanuel Kant
-Marcus Aurelius
-Epicurus
 Hannah Arendt
-Plato
-Democritus
-Ludwig Wittgenstein
-David Hume
-Simone de Beauvoir
-Thomas Hobbes
-Michael Sandel
-Epictetus
-Confucius
-Sun Tzu
-Niccolo Machiavelli
-Aristotle
 Hypatia
-St Augustine
-Michel Foucault 
-Rene Descartes
-Arthur Schopenhauer
-Martin Heidegger
-Edmund Husserl
-Johann Von Goethe
-G. W. F. Hegel
-G.E. Moore
-John Dewey
-Jiddu Krishnamurti
-Daniel Dennett
-Martha Nussbaum
+Immanuel Kant
+Isiah Berlin
 Jean Jacques Rousseau
+Jeremy Bentham
+Jean-Paul Sartre
+Jiddu Krishnamurti
+John Dewey
+John Rawls
+John Stuart Mill
+Johann Von Goethe
+Karl Marx
+Ludwig Wittgenstein
+Marcus Aurelius
+Martha Nussbaum
+Martin Heidegger
+Michael Sandel
+Michel Foucault 
+Niccolo Machiavelli
 Nick Bostrom
+Peter Singer
+Plato
+Rene Descartes
+Ronald Dworkin
+Simone de Beauvoir
+Socrates
+Soren Kierkegaard
+Sun Tzu
+St Augustine
+Thomas Hobbes
+Will Kymlicka
 ```
 
 ### Physicists:
 
 ```
-Albert Einstein 
-Stephen Hawking 
-Charles Darwin 
-Alan Turing 
-Erwin Schrodinger 
-Max Planck 
-Niels Bohr 
-Isaac Newton 
-Yohannes Kepler 
-Nicolaus Copernicus 
+Albert Einstein
+Edwarad Witten
+Edwin Hubble
+Erwin Schrodinger
 Fritz Zwicky
-James Clerk Maxwell 
-Peter Higgs 
-Hans Bethe 
-Edwin Hubble 
+Hans Bethe
+Isaac Newton
+James Clerk Maxwell
 John Von Neumann
+Max Planck
+Nicolaus Copernicus
+Niels Bohr
+Peter Higgs 
 Robert J. Oppenheimer 
-Edwarad Witten 
+Stephen Hawking
+Yohannes Kepler
 ```
 
 ### Biologists:
 ```
-J.B.S Haldane 
+Charles Darwin
+J.B.S Haldane
+Louis Pasteur
 Richard Dawkins 
 Rosalind Franklin 
-Louis Pasteur
 ```
 
 ### Psychologists:
 
 ```
-Daniel Kahnemann 
-Timothy Wilson 
-Dan Ariely 
-Philip Zimbardo 
-Steven Pinker 
-R.D. Laing 
-Carl Young 
-Sigmund Freud 
-B.F. Skinner 
 Amos Tversky 
-William James 
+B.F. Skinner 
+Carl Young 
+Daniel Kahnemann 
+Dan Ariely
+Gabor Mate
 Jordan Peterson
-Gabor_Mate
+Philip Zimbardo 
+R.D. Laing 
+Sigmund Freud 
+Steven Pinker 
+Timothy Wilson 
+William James 
 ```
 
 ### Chemists:
 ```
+Albert Hoffman
+Alexander Shulgin
 Marie Curie
 ```
 
 ### Science Popularisers:
 ```
-Carl Sagan 
+Brian Cox
+Carl Sagan
+Derek Muller (YouTube - Veritaseum)
+Michael Stevens (YouTube - vsauce)
 Richard Feynman 
-Simon Singh 
-Brian Cox 
-Michael Stevens (vsauce)
-Derek Muller (Youtube - Veritaseum)
 Rhonda Patrick (Joe Rogan Podcast, https://www.youtube.com/c/FoundMyFitness)
+Simon Singh
 ```
 
 ### Political Theorists:
 ```
-Robert A. Dahl
-Baron de Montesquieu
-Michael Parenti 
-Larry Diamond 
-Iris Marion Young 
 Antonio Gramsci 
+Baron de Montesquieu
+Robert A. Dahl
 ```
 
 ### Sociologists:
 ```
-John R. Searle
 Auguste Comte
 Emile Durkheim
+John R. Searle
 Max Weber
 ```
 
 ### Mathematicians:
 ```
-Alan Turng 
-Frank Ramsey 
-Kurt Godel 
+Alan Turing
 Andrew Wiles 
-Blaise Pascal 
-Pythagoras
+Blaise Pascal
+Frank Ramsey
 Gottfried Wilhelm Leibniz
-Terence Tao
+Kurt Godel 
 Paul Erdős
+Pythagoras
+Terence Tao
 ```
 
 ### Blockchain:
 ```
+Satoshi Nakamoto
 Vitalik Buterin
 ```
 
 ### Authors:
 ```
 Aldous Huxley
-Robert Pirsig
-Vladimir Nabokov
-Toni Morrison
-Haruki Murakami
-Douglas Adams
-Joseph Heller
-Harper Lee
-Mikhail Bulgakov
-Issac Asimov
-John Steinbeck
-F. Scott Fitzgerald
-James Joyce
-Kurt Vonnegut
-Franz Kafka
-George Orwell
-Edgar Allen Poe
-Osamu Dazai
-Milan Kundera
-Mary Wollstonecraft
-Daniel M. Keyes
-Marcel Proust
-John Milton
-Lewis Carroll
-H.P. Lovecraft
-William Shakespeare
-Oscar Wilde
-Ralph Ellison
-Silvia Plath
-Leo Tolstoy
-Ken Kesey
-Stephen Law
+Anne Frank
 Charles Bukowski
-Malcolm Gladwell
-Lev Shestov
 Charles Dickens
 Chinua Achebe
-Thomas Pynchon
-Anne Frank
-Philip K. Dick 
+C.S. Lewis
+Daniel M. Keyes
+Douglas Adams
+Edgar Allen Poe
+F. Scott Fitzgerald
+Franz Kafka
+George Orwell
+Haruki Murakami
+Harper Lee
 Henry Miller 
-Mark Twain 
+H.P. Lovecraft
+Issac Asimov
+James Joyce
+John Milton
+John Steinbeck
+John Williams
+Joseph Heller
+Ken Kesey
+Kurt Vonnegut
+Leo Tolstoy
+Lev Shestov
+Lewis Carroll
+Malcolm Gladwell
+Marcel Proust
+Mark Twain
+Mary Wollstonecraft
+Mikhail Bulgakov
+Milan Kundera
+Oscar Wilde
+Osamu Dazai
+Philip K. Dick
+Ralph Ellison
+Robert Pirsig
+Silvia Plath
+Thomas Pynchon
+Toni Morrison
 Truman capote
-C.S. Lewis 
-```
-
-### Chemists:
-```
-Alexander Shulgin 
-Albert Hoffman 
+Vladimir Nabokov
+William Shakespeare
 ```
 
 ### Academics / Intellectuals:
 ```
+Daniel Dorling 
+G.A. Cohen
+Marcus Du Sautoy 
+Mihaly Csikszentmihalyi 
 Naomi Klein 
 Noam Chomsky  
-Sam Harris 
-Mihaly Csikszentmihalyi 
-Daniel Dorling 
-Cass R. Sunstein 
-Tariq Modood 
-G.A. Cohen 
-David Held 
-Slavoj Zizek 
-Colin Hay 
-Jurgen Habermas 
-Ray Monk 
-Marcus Du Sautoy 
-Anthony ward 
-Terry Eagleton 
-Tim Bale 
-David Harvey 
-Pierre Bordieu 
-Soren Kierkegaard 
-Andrew Gamble 
-G.E.M. Anscombe 
-Isiah Berlin 
-Gilbert Ryle 
-H.L.A. Hart 
-Jeremy Bentham 
-Ronald Dworkin 
-Nigel Warburton 
-Will Kymlicka 
-Bryan Magee 
+Sam Harris
+Slavoj Zizek
 ```
 
 ### Economists:
 ```
-Paul Krugman 
+Ha-Joon Chang
 John Maynard Keynes 
-Ha-Joon Chang 
+Paul Krugman
 ```
 
 ### Historians:
 ```
-Howard Zinn 
-Eric Hobsbawm 
+Eric Hobsbawm
+Howard Zinn
 ```
 
 ### Neuroscientists:
 ```
-David Nutt 
-David Eagleman
 Andrew Huberman
+David Eagleman
+David Nutt 
 ```
 
 ### Comedians:
 ```
-George Carlin 
 Bill Hicks 
 Doug Stanhope
+George Carlin 
 Sam Kinison
 Sascha Baron Cohen
 ```
 
 ### Inventors:
 ```
-Jacques Fresco 
 George Washington Carver 
+Jacques Fresco 
 Nikola Tesla 
 R. Buckminster Fueller 
 Tim berners Lee 
@@ -280,8 +258,8 @@ Tim berners Lee
 
 ### Poets:
 ```
+William Blake
 William Wordsworth 
-William Blake 
 ```
 
 ### Artist:
@@ -293,69 +271,69 @@ Yves-Klein (art)
 ### Revolutionaries:
 ```
 Malcolm X 
-Robert Owen 
-Vladimir Lenin 
 Nelson Mandela
 Patrice Lumumba
+Robert Owen 
+Vladimir Lenin 
 ```
 
 ### Psychedelics advocates:
 ```
-Terence McKenna
-Robert Anton Wilson
-Timothy Leary
 Ram Dass
+Robert Anton Wilson
+Terence McKenna
+Timothy Leary
 ```
 
 ### Various Others:
 ```
-Peter Joseph (Maker of Zietgeist films)
-Jane Goodall (anthropologist)
+Adam Curtis (Filmmaker)
+Bernie Sanders (Left wing politician)
+Charlie Brooker (presenter, writer, TV producer)
+Elvis Presley (Singer)
+Evel Knievel (stuntman)
 Garry Kasparov (one of the best chess players ever) 
 Graham Hancock (Author and 'alternative historian')
-Adam Curtis (Filmmaker)
+Henrietta lacks / `The immortal life of Henrietta Lacks`
 Immortal Technique (Political Rapper)
+Jane Goodall (anthropologist)
 Judit Polgar (Strongest female chess player of all time)
 Kim Peek (A.K.A. Rainman)
+Kyal Sin (19 year old protester who died)
+Pedro Lopez (serial killer)
+Peter Joseph (Maker of Zietgeist films)
+Ross Ulbricht (Silk Road Creator)
+Russell Barkely (ADHD expert)
 Steven Patrick Morrisey (Singer)
 Stanley Kubrick (Filmmaker)
-Ross Ulbricht (Silk Road Creator)
-Bernie Sanders (Left wing politician)
-Pedro Lopez (serial killer)
-Michel Lotito (Eating strange things - such as metal)
-Kyal Sin (19 year old protester who died)
-Russell Barkely (ADHD expert)
-Evel Knievel (stuntman)
-Elvis Presley (Singer)
-Henrietta lacks (https://en.wikipedia.org/wiki/Henrietta_Lacks)
- / `The immortal life of Henrietta Lacks`
 ```
 
 ### Some people I dislike the ideas of:
 ```
-Milton Friedman
-Thomas Sowell
 Ayn Rand
-Robert Nozick
-John Locke
-Francis Fukuyama
-Ronald Reagan
-Margaret Thatcher
 Edward Bernays
+Francis Fukuyama
+John Locke
+Margaret Thatcher
+Milton Friedman
+Robert Nozick
+Ronald Reagan
+Thomas Sowell
 ```
 
 ### Mixed Martial Arts:
 ```
-Jon Jones
-Fedor Emilianenko
+Anderson Silva
 Bas Rutten
 Demetrious Johnson
+Fedor Emilianenko
+Jon Jones
 Khabib Nurmagomedov
-Anderson Silva
 Khamzat Chimaev
 ```
 
 ### People with strange talents:
 ```
 Mirin Dajo (impales self)
+Michel Lotito (Eating strange things - such as metal)
 ```
