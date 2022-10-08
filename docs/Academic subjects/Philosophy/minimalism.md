@@ -20,7 +20,7 @@ I think they key arguments are:
 ## tips:
 
 Basically just block amazon, ebay, ecommerce, clothes websites, etc. If you find yourself mindlessly 
-scrolling through various websites, eventially you will get tempted to buy something. And the more time you 
+scrolling through various websites, eventually you will get tempted to buy something. And the more time you 
 spend on those websites the higher chance you will find things that you want. 
 
 # Concepts:

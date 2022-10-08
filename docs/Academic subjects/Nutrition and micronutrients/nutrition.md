@@ -19,7 +19,7 @@ The multivitamin myth: You will be healthy if you just have a good multivitamin 
 
 ## Photos:
 
-Photos are from: [Ingredients of nautral foods](https://jameskennedymonash.wordpress.com/)
+Photos are from: [Ingredients of natural foods](https://jameskennedymonash.wordpress.com/)
 
 
 ![all natural egg](../../../static/img/academic/ingredients-of-an-all-natural-egg.webp)
@@ -34,7 +34,7 @@ Photos are from: [Ingredients of nautral foods](https://jameskennedymonash.wordp
 
 ## Links:
 
-[Ingredients of nautral foods](https://jameskennedymonash.wordpress.com/)
+[Ingredients of natural foods](https://jameskennedymonash.wordpress.com/)
 
 
 ## Books:

@@ -16,7 +16,7 @@ with depression and anxiety.
 
 ### Wiki:
 
-[Cognitive Behavioural Therpay](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+[Cognitive Behavioural Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
 
 [Cognitive distortion](https://en.wikipedia.org/wiki/Cognitive_distortion)
 

@@ -47,11 +47,11 @@ On balance YouTube isn't worth it. It's just not worth it. Can be useful for tut
 
 
 * Video games generally: Unless you're an aspiring streamer or professional. Video games can be hugely entertaining. 
-But if you want to get anywehre in life then. 
+But if you want to get anywhere in life then. 
 
 
 * Reddit: Avoid reddit too for the most part. The knowledge you gain there 
-isn't worth the time trade-off. Can be useful for specific things nonethless.
+isn't worth the time trade-off. Can be useful for specific things nonetheless.
 
 
 * Social media: A total waste of time.

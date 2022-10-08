@@ -22,7 +22,7 @@ These are a bit subjective because some people can sleep in loud, bright places 
 For most people a quiet, cool dark place is better. 
 
 
-* Sleep in quiet place (sound can interefere with sleep).
+* Sleep in quiet place (sound can interfere with sleep).
 * Sleep in a dark place. (Bluelight Glasses) Light affects sleep (melatonin known as the vampire hormone). 
 * Aim to get 8 hours. Some people need slightly more.
 * Avoid Eating anything big in the 4 hours before bed.
@@ -32,7 +32,7 @@ For most people a quiet, cool dark place is better.
 
 
 ## Other things to try
-* Improve Sleep Hygeine (limited evidence)
+* Improve Sleep Hygiene (limited evidence)
 * Weighted Blanket
 * Magnesium supplementation
 * Cognitive Behavioural Therapy for Insomnia - (CBTi)

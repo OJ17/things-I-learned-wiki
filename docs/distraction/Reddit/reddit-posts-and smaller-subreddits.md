@@ -30,7 +30,7 @@ sidebar_position: 6
 
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
 
-[That haappened](https://www.reddit.com/r/thatHappened/top/?t=all)
+[That happened](https://www.reddit.com/r/thatHappened/top/?t=all)
 
 [ThewKnew](https://www.reddit.com/r/theyknew/top/?t=year)
 

@@ -16,13 +16,13 @@ will far succeed relentless thought.
 ### Process:
 
 If you are a beginner then using an app such as `calm` or `headspace` on android / iOS 
-is a good place to start. And try to build up a good practice there by doing the daily meditation for 10 or 20 mintutes.
+is a good place to start. And try to build up a good practice there by doing the daily meditation for 10 or 20 minutes.
 
 More is better and if you can manage a start with like 1 hour a day for a week it will give you a 
 strong start where you can really see the benefits rather than just doing 10 minutes per day and the benefits taking longer
 to arrive.
 
-(There are possibly other free apps such as Insight Timer which are appreantly good)
+(There are possibly other free apps such as Insight Timer which are apparently good)
 
 
 Apps:

@@ -24,7 +24,7 @@ I've been using brain.fm for a few weeks. It's been great for concentration so f
 
 Lofi Girl (best free YouTube channel for LoFi music):
 
-[lofi hip hop radio - beats to relax/study to](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+[Lofi hip hop radio - beats to relax/study to](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
 
 

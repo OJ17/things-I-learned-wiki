@@ -15,7 +15,7 @@ Twitter accounts with short viral video:
 
 [No Context Humans](https://twitter.com/NoContextHumans)
 
-[mischeif animals](https://twitter.com/mischiefanimals)
+[mischief animals](https://twitter.com/mischiefanimals)
 
 
 ### websites:

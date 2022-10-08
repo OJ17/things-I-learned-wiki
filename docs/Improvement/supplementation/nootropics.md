@@ -26,7 +26,7 @@ CBD oil - [Need to research this more. before giving a better summary. So far se
 
 Caffeine - Not great for me on balance. 
 
-Creatine Monohydrate (espeically for Vegans) - Currently Experimenting
+Creatine Monohydrate (especially for Vegans) - Currently Experimenting
 
 ### Conclusion:
 

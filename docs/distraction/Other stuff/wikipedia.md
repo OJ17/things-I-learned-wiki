@@ -12,7 +12,7 @@ Wikipedia:
 
 [List of unsolved deaths](https://en.wikipedia.org/wiki/List_of_unsolved_deaths)
 
-[List of unusal deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
+[List of unusual deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
 
 
 
