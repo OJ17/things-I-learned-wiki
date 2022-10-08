@@ -32,6 +32,15 @@ Of course, much like myself, it is a work in progress but hopefully it can help 
 
 e-mail: `oj3@protonmail.com`
 
+### If there are any rich people out there:
+
+Ethereum: 
+`0x0E1c3cc34d1bAf4A3590c7501cC4A99DDA3cFd6d`
+
+XRP: 
+`0x0E1c3cc34d1bAf4A3590c7501cC4A99DDA3cFd6d`
+
+Solana: `GmRT3gA1MmrjcCRr9DBrhbAHr4XKRgjrECaNvFmNqyK1`
 
 
 
