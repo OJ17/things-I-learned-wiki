@@ -11,6 +11,7 @@ Aristotle
 Arthur Schopenhauer
 Bertrand Russell
 Bryan Magee (For his TV interviews)
+Cass R. Sunstein
 Confucius
 Democritus
 Daniel Dennett
@@ -19,8 +20,10 @@ Edmund Husserl
 Epictetus
 Epicurus
 G.E. Moore
+G.E.M. Anscombe
 G. W. F. Hegel
 Gilbert Ryle
+H.L.A. Hart
 Friedrich Engels
 Friedrich Nietzsche
 Fyodor Dostoyevsky
@@ -36,6 +39,7 @@ John Dewey
 John Rawls
 John Stuart Mill
 Johann Von Goethe
+Jurgen Habermas
 Karl Marx
 Ludwig Wittgenstein
 Marcus Aurelius
@@ -137,6 +141,7 @@ Auguste Comte
 Emile Durkheim
 John R. Searle
 Max Weber
+Pierre Bordieu
 ```
 
 ### Mathematicians:
@@ -197,6 +202,7 @@ Oscar Wilde
 Osamu Dazai
 Philip K. Dick
 Ralph Ellison
+Ray Monk - for writing a great Wittgenstein biography
 Robert Pirsig
 Silvia Plath
 Thomas Pynchon
