@@ -48,7 +48,9 @@ Good free source of journal articles for health / diet, etc.:
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
+Good summary of effective supplements:
 
+[Examine](https://examine.com/)
 
 
 
