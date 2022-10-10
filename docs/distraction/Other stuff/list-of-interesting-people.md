@@ -192,7 +192,6 @@ Kurt Vonnegut
 Leo Tolstoy
 Lev Shestov
 Lewis Carroll
-Malcolm Gladwell
 Marcel Proust
 Mark Twain
 Mary Wollstonecraft
