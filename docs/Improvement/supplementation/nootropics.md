@@ -45,4 +45,12 @@ really useful. Of course, it may cause sleep issues for those sensitive to it.
 ### Books:
 
 
+### Articles:
+
+[Creatine might help treat depression](https://bigthink.com/health/creatine-treat-depression/)
+
+[Relationship between depression, prefrontal creatine and grey matter volume](https://journals.sagepub.com/doi/full/10.1177/02698811211050550)
+
+
+
 
