@@ -218,8 +218,7 @@ G.A. Cohen
 Marcus Du Sautoy 
 Mihaly Csikszentmihalyi 
 Naomi Klein 
-Noam Chomsky  
-Sam Harris
+Noam Chomsky
 Slavoj Zizek
 ```
 
@@ -245,9 +244,11 @@ David Nutt
 
 ### Comedians:
 ```
-Bill Hicks 
+Bill Burr
+Bill Hicks
 Doug Stanhope
-George Carlin 
+George Carlin
+Louis C.K. 
 Sam Kinison
 Sascha Baron Cohen
 ```

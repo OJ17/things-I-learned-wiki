@@ -16,25 +16,26 @@ So by being mindful of them, you can start reclaim that wasted mental energy on 
 
 ### Process:
 
-If you are a beginner then using an app such as `calm` or `headspace` on android / iOS 
-is a good place to start. And try to build up a good practice there by doing the daily meditation for 10 or 20 minutes.
+If you are a beginner then using an app on android / iOS 
+is a good place to start. 
+And try to build up a good practice there by doing the daily meditation for 10 or 20 minutes.
 
-More is better and if you can manage a start with like 1 hour a day for a week it will give you a 
-strong start where you can really see the benefits rather than just doing 10 minutes per day and the benefits taking longer
-to arrive.
+Like most things in life consistency is important to really get the benefits.
 
-(There are possibly other free apps such as Insight Timer which are apparently good)
+I've used a few apps so far, and my personal favourite is `Waking up` because it seems to be more rooted in science and 
+psychology and going a bit deeper to explain the tricks the mind plays on itself. It is a bit more expensive though.
 
+Calm is also quite good, but I didn't feel like it had as much substance.
 
-Apps:
+### Apps:
 
-[Calm](https://www.calm.com/)
+[Waking Up](https://www.wakingup.com/) (paid)
 
-[Headspace](https://www.headspace.com/)
+[Calm](https://www.calm.com/) (paid)
 
-[Waking Up](https://www.wakingup.com/)
+[Headspace](https://www.headspace.com/) (paid)
 
-[Insight Timer](https://insighttimer.com/en-gb)
+[Insight Timer](https://insighttimer.com/en-gb) (free)
 
 
 
