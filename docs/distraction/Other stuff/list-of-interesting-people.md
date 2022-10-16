@@ -303,6 +303,7 @@ Graham Hancock (Author and 'alternative historian')
 Henrietta lacks / `The immortal life of Henrietta Lacks`
 Immortal Technique (Political Rapper)
 Jane Goodall (anthropologist)
+James Lovelock (inventor, environmentalist)
 Judit Polgar (Strongest female chess player of all time)
 Kim Peek (A.K.A. Rainman)
 Kyal Sin (19 year old protester who died)
