@@ -39,8 +39,8 @@ sidebar_position: 6
 
 [Duo Linguo](https://www.duolingo.com/)
 
-[Calm](https://play.google.com/store/apps/details?id=com.calm.android&hl=en_GB&gl=US)
-(I may replace Calm with `headspace` or `Waking up` as the content is somewhat lacking)
+[Waking up](https://www.wakingup.com/)
+(`headspace` or `Calm` are also popular alternatives)
 
 [Savings Tracker](https://play.google.com/store/apps/details?id=com.longnguyen.savingstracker&hl=en_GB&gl=US)
 

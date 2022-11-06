@@ -79,6 +79,9 @@ L.P. Hartley
 
 `“We suffer more often in imagination than in reality”` ― Lucius Annaeus Seneca
 
+`I know of no other way of dealing with a great task than that of play` - Nietzsche
+
+
 
 ### Links:
 

@@ -203,7 +203,6 @@ Philip K. Dick
 Ralph Ellison
 Ray Monk - for writing a great Wittgenstein biography
 Robert Pirsig
-Silvia Plath
 Thomas Pynchon
 Toni Morrison
 Truman capote
@@ -256,7 +255,7 @@ Sascha Baron Cohen
 ### Inventors:
 ```
 George Washington Carver 
-Jacques Fresco 
+Jacques Fresco
 Nikola Tesla 
 R. Buckminster Fueller 
 Tim berners Lee 

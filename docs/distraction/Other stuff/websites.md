@@ -13,8 +13,6 @@ sidebar_position: 6
 
 Twitter accounts with short viral video:
 
-[No Context Humans](https://twitter.com/NoContextHumans)
-
 [mischief animals](https://twitter.com/mischiefanimals)
 
 

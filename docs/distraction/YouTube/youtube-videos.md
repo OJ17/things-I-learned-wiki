@@ -24,6 +24,12 @@ Bob Lazar's story is probably BS, but this is pretty interesting at the very lea
 
 [Pentagon officially releases 'UFO' videos](https://www.youtube.com/watch?v=auITEKd4sjA)
 
+Science:
+
+[The man who accidentally killed the most people in history](https://www.youtube.com/watch?v=IV3dnLzthDA)
+
+
+
 Random videos:
 
 [Crocodile Catches Cheetah](https://www.youtube.com/watch?v=A-8l-7guF84)

@@ -30,6 +30,6 @@ Lofi Girl (best free YouTube channel for LoFi music):
 
 ### Articles
 
-[Quit treating music like drugs](https://nicksaraev.medium.com/quit-treating-music-like-drugs-52f13ab8ecf0)
+[Quit treating music like a drug](https://nicksaraev.medium.com/quit-treating-music-like-drugs-52f13ab8ecf0)
 
 [Intelligence and Music: Lower Intelligent Quotient Is Associated With Higher Use of Music for Experiencing Strong Sensations](https://journals.sagepub.com/doi/10.1177/0276237420951414)

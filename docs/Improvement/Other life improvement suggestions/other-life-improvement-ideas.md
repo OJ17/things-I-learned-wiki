@@ -62,6 +62,15 @@ higher quality ones.
 * track your time for a week to really understand where it's going. For example using [Toggl.com](https://toggl.com/) 
 
 
+* See a therapist (maybe?)
+
+
+* regularly use an isolation tank (sensory deprivation tank)
+
+
+* 
+
+
 ### Small tips and tricks
 
 I'm sure 99% of you know this stuff, but just in case you don't!
@@ -69,10 +78,11 @@ I'm sure 99% of you know this stuff, but just in case you don't!
 * Blow on hot food to cool it down, so you can eat faster (also works for stupidly hot coffee).
 
 
-* Don't eat 4 hour before sleeping as it can interfere with sleep
+* Don't eat for 4 hours before sleeping as it can interfere with sleep
 
 
-``
+
+
 
 
 

@@ -35,6 +35,10 @@ sidebar_position: 6
 [Breaking Bad](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0)
 
 
+### List of all the TV & movies i've seen
+
+[TV & Films i've watched](https://www.imdb.com/list/ls563427260/)
+
 
 
 
