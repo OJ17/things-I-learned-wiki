@@ -18,6 +18,3 @@ ways of thinking.
 ### Books:
 
 
-
-
-

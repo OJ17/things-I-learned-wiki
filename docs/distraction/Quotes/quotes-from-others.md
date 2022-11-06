@@ -6,12 +6,14 @@ sidebar_position: 6
 
 ### Summary:
 
+`"Compare yourself to who you were yesterday, not to who someone else is today."` - Jordan Peterson
+
 `"Where ignorance is bliss, 'tis folly to be wise."` - Thomas Gray
 
 `"There are two ways to enslave a nation.
 One is by the sword. The other is by debt."` - John Adams
 
-`"Genius is 1% talent and 99% hard work"` - Einstein
+`"Genius is 1% talent and 99% hard work"` - Albert Einstein
 
 `"Appear weak when you are strong, and strong when you are weak"` - Sun Tzu
 
@@ -22,11 +24,11 @@ One is by the sword. The other is by debt."` - John Adams
 `"What matters is the pace of innovation - That is the fundamental
 determinant of competitiveness"` - Elon Musk
 
-`"What is not started today is never finished tomorrow"` - Goethe
+`"What is not started today is never finished tomorrow"` - Johann Goethe
 
-`"Those who make peaceful revolution impossible make violent revolution inevitable"` - JFK
+`"Those who make peaceful revolution impossible make violent revolution inevitable"` - John F. Kennedy
 
-`"All truly great thoughts are conceived whilst walking"` - Nietzsche
+`"All truly great thoughts are conceived whilst walking"` - Friedrich Nietzsche
 
 `"Our best efforts are nothing more than half-completed stories told around the campfire."` - Terence McKenna
 
@@ -35,7 +37,7 @@ determinant of competitiveness"` - Elon Musk
 `Before I was shot, I always thought that I was more half-there than all-there—I always suspected that I was watching TV instead of living life. People sometimes say that the way things happen in movies is unreal, but actually it's the way things happen in life that's unreal. The movies make emotions look so strong and real, whereas when things really do happen to you, it's like watching television—you don't feel anything. Right when I was being shot and ever since, I knew that I was watching television. The channels switch, but it's all television."`
 - Andy Warhol (Wikipedia page)
 
-`"To thine own self be true"` - Shakespeare
+`"To thine own self be true"` - William Shakespeare
 
 `“The artist’s task is to save the soul of mankind; and anything less is a dithering while Rome burns. Because of the artists, who are self-selected, for being able to journey into the Other, if the artists cannot find the way, then the way cannot be found.”` ― Terence McKenna
 
@@ -55,10 +57,29 @@ L.P. Hartley
 
 `"A candle loses nothing when it lights another candle"` - Thomas Jefferson
 
-`"Success is going from failure to failure with no loss of enthusiasm"` - Churchill
+`"Success consisits of going from failure to failure without loss of enthusiasm"` - Winston Churchill
 
 `"Happiness is the feeling that power increases - that resistance is being overcome."` - Friedrich Nietzsche
 
+`"I know of no other manner of dealing with great tasks than as play"` - Friedrich Nietzsche
+
+`"Mental illness is a terrible thing to have to cope with but I’ve learnt it’s a fight you can win if you live your life the right way".` - Frank Bruno
+
+`"It's not what happens to you, but how you react to it that matters."` - Epictetus
+
+`"Every day it gets a little easier… But you gotta do it every day. that’s the hard part. But it does get easier."` - BoJack Horseman
+
+`"The difference between successful people and really successful people is that really successful people say no to almost everything."` - Warren Buffett
+
+`“There are decades where nothing happens; and there are weeks where decades happen.”` - Vladimir Ilyich Lenin
+
+`"We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons."` - Jim Rohn
+
+`"All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."` - Arthur Schopenhauer
+
+`“We suffer more often in imagination than in reality”` ― Lucius Annaeus Seneca
+
+`I know of no other way of dealing with a great task than that of play` - Nietzsche
 
 
 

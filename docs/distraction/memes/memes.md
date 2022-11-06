@@ -8,23 +8,25 @@ sidebar_position: 6
 
 (work in progress)
 
-![meme](../../../static/img/memes/big-spongebob.jpg)
+![big-spongebob](../../../static/img/memes/big-spongebob.jpg)
 
-![meme](../../../static/img/memes/dalmation.jpg)
+![dalmation](../../../static/img/memes/dalmation.jpg)
 
-![meme](../../../static/img/memes/netflix-teenagers.jpg)
+![netflix-teenager](../../../static/img/memes/netflix-teenagers.jpg)
 
-![meme](../../../static/img/memes/meanwhile-in-japan.png)
+![meanwhile-in-japan](../../../static/img/memes/meanwhile-in-japan.png)
 
-![meme](../../../static/img/memes/cat-on-vacation.webp)
+![cat on vacation](../../../static/img/memes/cat-on-vacation.webp)
 
-![meme](../../../static/img/memes/twisty-cat.jpg)
+![twisty-cat](../../../static/img/memes/twisty-cat.jpg)
 
-![meme](../../../static/img/memes/40-years-old-men.jpeg)
+![40-years-old-men](../../../static/img/memes/40-years-old-men.jpeg)
+
+![Why do I feel so good all the time](../../../static/img/memes/feel-good-starterpack.webp)
 
 ### Gifs:
 
-![meme](../../../static/img/memes/microsoft-mincraft.gif)
+![microsoft-minecraft](../../../static/img/memes/microsoft-mincraft.gif)
 
 ### Videos:
 

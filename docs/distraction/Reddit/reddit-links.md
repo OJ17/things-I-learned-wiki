@@ -25,6 +25,8 @@ Here are some of the better ones I've found.
 
 [BeAmazed](https://www.reddit.com/r/BeAmazed/top/?t=all)
 
+[BlackMagicFuckery](https://www.reddit.com/r/blackmagicfuckery/top/?t=year)
+
 [blessedimages](https://www.reddit.com/r/blessedimages/top/?t=all)
 
 [choosingBeggars](https://www.reddit.com/r/ChoosingBeggars/top/?t=month)
@@ -117,11 +119,15 @@ Here are some of the better ones I've found.
 
 [whatsthisbug](https://www.reddit.com/r/whatsthisbug/top/?t=all)
 
+[WhitePeopleTwitter](https://www.reddit.com/r/WhitePeopleTwitter/top/?t=month)
+
 [wholesomememes](https://www.reddit.com/r/wholesomememes/top/?t=all)
 
 [WTF](https://www.reddit.com/r/WTF/top/?t=all)
 
 [youseeingthisshit](https://www.reddit.com/r/youseeingthisshit/top/?t=all)
 
+Can check this for a full list too:
 
+[redditList](http://redditlist.com/)
 

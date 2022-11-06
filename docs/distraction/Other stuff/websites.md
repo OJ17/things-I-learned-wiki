@@ -8,16 +8,12 @@ sidebar_position: 6
 
 [Gwern](https://www.gwern.net/)
 
-[Alicia Sykes](https://notes.aliciasykes.com/)
 
 ### Entertainment websites 
 
 Twitter accounts with short viral video:
 
-[No Context Humans](https://twitter.com/NoContextHumans)
-
-[mischeif animals](https://twitter.com/mischiefanimals)
-
+[mischief animals](https://twitter.com/mischiefanimals)
 
 
 ### websites:
@@ -29,6 +25,10 @@ Nice image search alternative to google:
 Some nice data here:
 
 [Our-world-in-data](https://ourworldindata.org/)
+
+Good place for infographics, although not sure about their sources / truthfulness:
+
+[VisualCapitalist](https://www.visualcapitalist.com/)
 
 Great website for Drug info / drug trip reports:
 
@@ -46,7 +46,9 @@ Good free source of journal articles for health / diet, etc.:
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
+Good summary of effective supplements:
 
+[Examine](https://examine.com/)
 
 
 

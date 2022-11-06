@@ -18,9 +18,5 @@ ways of thinking.
 
 ### Books:
 
-### people:
-
-Terence McKenna
-
 
 

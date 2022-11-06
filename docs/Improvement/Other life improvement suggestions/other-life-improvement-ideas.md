@@ -6,50 +6,84 @@ sidebar_position: 6
 
 ### Summary: 
 
-Positive affirmations
+* Positive affirmations
 
-Gratitude lists
 
-Cutting out the news 100%
+* Gratitude lists
 
-Cutting out toxic people from your life
 
-surrounding yourself with positive / successful people
+* Cutting out the news 100%
 
-Volunteering
 
-Massage
+* Cutting out toxic people from your life
 
-Chew often
 
-Everybody is fighting something
+* Surrounding yourself with positive / successful people
 
-Saliva is good for teeth
 
-improving memory via Mnemonics
+* Volunteering (psychological benefits)
 
-Ulysses contract
 
-"hourly awareness chimes" / a temporary process of setting an alarm
+* Massage (health benefits of touch)
+
+
+* Chew often (to strengthen Jaw muscles)
+
+
+* Everybody is fighting something
+
+
+* Ulysses contract
+
+
+* "hourly awareness chimes" / a temporary process of setting an alarm
 every hour, checking that you are productive or not
 
-Dopamine Detox (i.e. be bored for a while)
 
-use an electric toothbrush
-
-Using a smart watch to save time in checking for notifications
+* Dopamine Detox (i.e. be bored for a while)
 
 
-### concepts:
+* Use an electric toothbrush. It is more effective and will pay for itself in reduced dental fees / pain
+
+
+* Using a smartwatch to save time in checking for notifications
+
+
+* Walking after eating - By doing this you help speed up digestion and lower your blood sugar level
+
+
+* Buy pre-cooked food to save cooking time / Essentially you should try and outsource certain activities, so you can focus your attention on
+higher quality ones.
+
+
+* Put a time cost on every hour you spend (i.e. value your time at $50 per hour, and adjust your behaviour accordingly).
+
+
+* track your time for a week to really understand where it's going. For example using [Toggl.com](https://toggl.com/) 
+
+
+* See a therapist (maybe?)
+
+
+* regularly use an isolation tank (sensory deprivation tank)
+
+
+* 
+
+
+### Small tips and tricks
+
+I'm sure 99% of you know this stuff, but just in case you don't!
+
+* Blow on hot food to cool it down, so you can eat faster (also works for stupidly hot coffee).
+
+
+* Don't eat for 4 hours before sleeping as it can interfere with sleep
 
 
 
 
-### books:
 
-
-
-### Quotes:
 
 
 

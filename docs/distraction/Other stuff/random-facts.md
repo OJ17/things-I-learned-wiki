@@ -15,5 +15,6 @@ can process around 40 of them consciously (Timothy Wilson, Strangers to ourselve
 
 * The word Person is latin for Personae which translates as 'mask'
 
+* It takes 66 days to form a new habit [2](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)
 
 

@@ -6,32 +6,36 @@ sidebar_position: 6
 
 ### Summary: 
 Increases gray matter in pre-frontal cortex. Makes you more calm, less stressed,
-more able to control your own behaviour, 
+more able to control your own behaviour. Also it makes you more productive as it helps increase focus.
 
 Thinking more is not necessarily better. In fact thinking less, but applying more 
-will far succeed relentless thought.
-
+will far succeed relentless thought. In my case often my thoughts are repetitive, or just not in any way constuctive.
+So by being mindful of them, you can start reclaim that wasted mental energy on something positive and proactive. Rather than
+ being the person who complains or feels sorry for themselves.
 
 
 ### Process:
 
-If you are a beginner then using an app such as `calm` or `headspace` on android / iOS 
-is a good place to start. And try to build up a good practice there by doing the daily meditation for 10 or 20 mintutes.
+If you are a beginner then using an app on android / iOS 
+is a good place to start. 
+And try to build up a good practice there by doing the daily meditation for 10 or 20 minutes.
 
-More is better and if you can manage a start with like 1 hour a day for a week it will give you a 
-strong start where you can really see the benefits rather than just doing 10 minutes per day and the benefits taking longer
-to arrive.
+Like most things in life consistency is important to really get the benefits.
 
-(There are possibly other free apps such as Insight Timer which are appreantly good)
+I've used a few apps so far, and my personal favourite is `Waking up` because it seems to be more rooted in science and 
+psychology and going a bit deeper to explain the tricks the mind plays on itself. It is a bit more expensive though.
 
+Calm is also quite good, but I didn't feel like it had as much substance.
 
-Apps:
+### Apps:
 
-[Calm](https://www.calm.com/)
+[Waking Up](https://www.wakingup.com/) (paid)
 
-[Headspace](https://www.headspace.com/)
+[Calm](https://www.calm.com/) (paid)
 
-[Insight Timer](https://insighttimer.com/en-gb)
+[Headspace](https://www.headspace.com/) (paid)
+
+[Insight Timer](https://insighttimer.com/en-gb) (free)
 
 
 

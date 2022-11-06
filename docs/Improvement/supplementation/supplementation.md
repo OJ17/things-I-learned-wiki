@@ -16,10 +16,7 @@ Vitamin B12 - Important to take a supplement if you're a vegetarian.
 
 ### Conclusion:
 
-Take Vitamin D if you live in a northern climate.
 
 
 ### Videos:
-
-[Vitamin D](https://www.youtube.com/watch?v=tBSfIckPV44)
 

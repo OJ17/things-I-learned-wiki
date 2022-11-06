@@ -38,6 +38,11 @@ sidebar_position: 6
 
 ![be the boss Quote](../../../static/img/quotes/be-the-boss.png)
 
+![Epictetus reaction quote](../../../static/img/quotes/epictetus-reaction-quote.jpg)
 
+![It gets easier](../../../static/img/quotes/it-gets-easier.webp)
 
+![determined Being](../../../static/img/quotes/determined-being.jpg)
+
+![T.S eliot](../../../static/img/quotes/everything-is-different.jpg)
 

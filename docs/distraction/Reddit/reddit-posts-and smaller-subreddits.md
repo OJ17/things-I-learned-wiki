@@ -18,6 +18,12 @@ sidebar_position: 6
 
 [ghosts](https://www.reddit.com/r/ghosts/top/?t=all)
 
+[iamverybadass](https://www.reddit.com/r/iamverybadass/top/?t=all)
+
+[crappyoffbrands](https://www.reddit.com/r/crappyoffbrands/top/?t=all)
+
+[oddlyterrifying](https://www.reddit.com/r/oddlyterrifying/top/?t=all)
+
 [MyPeopleNeedMe](https://www.reddit.com/r/MyPeopleNeedMe/top/?t=all)
 
 [MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
@@ -28,9 +34,11 @@ sidebar_position: 6
 
 [Science](https://www.reddit.com/r/science/top/?t=all)
 
+[Starterpacks](https://www.reddit.com/r/starterpacks/top/?t=year)
+
 [ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/top/?t=all)
 
-[That haappened](https://www.reddit.com/r/thatHappened/top/?t=all)
+[That happened](https://www.reddit.com/r/thatHappened/top/?t=all)
 
 [ThewKnew](https://www.reddit.com/r/theyknew/top/?t=year)
 
@@ -55,10 +63,11 @@ sidebar_position: 6
 
 [Kitten walks on a rotating wheel](https://www.reddit.com/r/aww/comments/slzgux/ever_wondered_how_this_subreddit_is_powered/)
 
-[Cat jumps smoothly on a bed](https://www.reddit.com/r/BetterEveryLoop/comments/asnebf/cat_goes_boing/)
+[Cat jumps smoothly onto a bed](https://www.reddit.com/r/BetterEveryLoop/comments/asnebf/cat_goes_boing/)
 
+[Principles of Topology](https://www.reddit.com/r/Damnthatsinteresting/comments/umgnnb/principles_of_topology/)
 
-
+[Why do I feel so good all the time starterpack](https://www.reddit.com/r/starterpacks/comments/6wszws/why_do_i_feel_so_good_all_the_time_starterpack/)
 
 
 

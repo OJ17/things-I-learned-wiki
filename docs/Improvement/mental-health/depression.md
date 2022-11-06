@@ -47,11 +47,14 @@ effective than placebo. Nonetheless they do help some people.
 CBT (Cognitive behavioural therapy)
 
 
-
-
-
 ### Books:
 
+
+### Video:
+
+`“Stop feeling sorry for yourself and you will be happy.”` ― Stephen Fry
+
+[Stephen Fry discusses self-pity](https://www.youtube.com/watch?v=r_2kelqYz_o)
 
 
 

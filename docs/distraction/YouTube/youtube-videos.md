@@ -4,11 +4,13 @@ sidebar_position: 6
 
 # YouTube videos
 
-Philosophy:
+Psychology:
 
-[Alan watts - The dream of life](https://www.youtube.com/watch?v=wU0PYcCsL6o)
+[Comfort Will Ruin Your Life](https://www.youtube.com/watch?v=F5-qkgfBeuU)
 
-[Alan watts - Chinese farmer](https://www.youtube.com/watch?v=byQrdnq7_H0)
+[The question you need to ask yourself](https://www.youtube.com/watch?v=Ckj33-567g0)
+
+[Andrew Huberman - The power of your expectations](https://www.youtube.com/watch?v=IewbT1ZdhEA)
 
 Technology:
 
@@ -16,10 +18,17 @@ Technology:
 
 UFOs / UAPs:
 
-Bob Lazar's story is probably BS, but this is pretty interesting at the very least.
+Bob Lazar's story is probably BS, but this is pretty interesting at the very least:
+
 [Joe Rogan - Bob Lazar](https://www.youtube.com/watch?v=BEWz4SXfyCQ)
 
 [Pentagon officially releases 'UFO' videos](https://www.youtube.com/watch?v=auITEKd4sjA)
+
+Science:
+
+[The man who accidentally killed the most people in history](https://www.youtube.com/watch?v=IV3dnLzthDA)
+
+
 
 Random videos:
 
@@ -63,6 +72,10 @@ Lots of similar videos if you search `TCAP` or `To catch a predator`
 [15 most beautiful caves](https://www.youtube.com/watch?v=gMUvVCCeLIM)
 
 [Fibre Optic cables, how do they work](https://www.youtube.com/watch?v=0MwMkBET_5I)
+
+Philosophy:
+
+[Alan Watts - Life is like music](https://www.youtube.com/watch?v=ERbvKrH-GC4)
 
 Music / random meme songs:
 
