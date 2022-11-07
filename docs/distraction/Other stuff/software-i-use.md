@@ -50,6 +50,10 @@ sidebar_position: 6
 [Waking up](https://www.wakingup.com/)
 (`headspace` or `Calm` are also popular alternatives)
 
+[SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=en_GB&gl=US)
+
+[NovaLauncher prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_GB&gl=US)
+
 ## Laptop apps:
 
 ```

@@ -18,6 +18,11 @@ Time tracking:
 [Rescue Time](https://www.rescuetime.com/)
 
 
+### Articles
+
+[the 7 best apps to focus and avoid distractions](https://zapier.com/blog/stay-focused-avoid-distractions/)
+
+
 
 
 

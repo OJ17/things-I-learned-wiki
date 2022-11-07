@@ -59,7 +59,13 @@ A funny and useful slang dictionary:
 [Urban Dictionary](https://www.urbandictionary.com/)
 
 
+Free online courses:
 
+[Coursera](https://www.coursera.org/)
+
+[edx](https://www.edx.org/)
+
+[MIT openware](https://ocw.mit.edu/)
 
 
 

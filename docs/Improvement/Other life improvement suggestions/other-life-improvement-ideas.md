@@ -30,6 +30,9 @@ sidebar_position: 6
 * Chew often (to strengthen Jaw muscles)
 
 
+* Chewing gum MAY have cognitive benefits (need to research more). i.e. [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449949/)
+
+
 * Everybody is fighting something
 
 

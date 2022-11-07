@@ -17,4 +17,5 @@ can process around 40 of them consciously (Timothy Wilson, Strangers to ourselve
 
 * It takes 66 days to form a new habit [2](https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit)
 
+* The word Depression is from the latin word for `deprimere` meaning `to press down`
 
