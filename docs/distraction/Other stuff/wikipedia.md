@@ -14,6 +14,8 @@ Wikipedia:
 
 [List of unusual deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
 
+[List of Heaviest Sumo Wrestlers](https://en.wikipedia.org/wiki/List_of_the_heaviest_sumo_wrestlers)
+
 
 
 

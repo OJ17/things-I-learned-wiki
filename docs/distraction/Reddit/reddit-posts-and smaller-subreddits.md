@@ -28,6 +28,8 @@ sidebar_position: 6
 
 [MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
 
+[NatureIsFuckingLit](https://www.reddit.com/r/NatureIsFuckingLit/top/?t=all)
+
 [ntbdbiwdfta](https://www.reddit.com/r/ntbdbiwdfta/top/?t=all)
 
 [scary](https://www.reddit.com/r/scary/top/?t=all)

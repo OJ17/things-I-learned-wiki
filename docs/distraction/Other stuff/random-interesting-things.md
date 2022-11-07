@@ -23,6 +23,8 @@ sidebar_position: 6
 
 [Otto Warmbier - North Korean Hostage](https://www.gq.com/story/otto-warmbier-north-korea-american-hostage-true-story)
 
+[Squid Game execution - North Korea](https://www.cosmopolitan.com/uk/reports/a38359762/student-executed-squid-game-smuggling/)
+
 [David Koresh - Wako Seige](https://en.wikipedia.org/wiki/David_Koresh)
 
 [Heaven's gate cult](https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group))

@@ -17,7 +17,8 @@ Probably the best science channel on YouTube:
 Short videos on strategies to improving your productivity, wellbeing, and life:
 [Better than Yesterday](https://www.youtube.com/c/BetterThanYesterday/videos?view=0&sort=p&flow=grid)
 
-
+Learning Blender:
+[Blender Guru](https://www.youtube.com/c/BlenderGuruOfficial/videos)
 
 
 

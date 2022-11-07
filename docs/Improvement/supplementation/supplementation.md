@@ -20,3 +20,9 @@ Vitamin B12 - Important to take a supplement if you're a vegetarian.
 
 ### Videos:
 
+
+### articles:
+
+[Should vegans supplement Creatine](https://nutrifix.co/fitness-blog/should-vegans-supplement-creatine/)
+
+

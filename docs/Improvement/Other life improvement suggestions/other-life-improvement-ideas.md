@@ -40,6 +40,9 @@ sidebar_position: 6
 every hour, checking that you are productive or not
 
 
+* The body is designed to be upright and to be in motion. If you sit upright whilst working you will have more energy.
+
+
 * Dopamine Detox (i.e. be bored for a while)
 
 
@@ -68,7 +71,16 @@ higher quality ones.
 * regularly use an isolation tank (sensory deprivation tank)
 
 
-* 
+* Try pre-cooked meals to save time (meal delivery services), or try something like [Huel](https://uk.huel.com/).
+
+
+* Buy a high quality ergonomic chair (i.e. steelcase or Herman Miller). This will easily pay for itself over time in terms of high productivity and less back ache.
+
+
+* Hypnosis (apparently there is some decent science behind it)
+
+
+* Laser Eye Surgery
 
 
 ### Small tips and tricks

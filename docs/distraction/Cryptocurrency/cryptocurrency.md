@@ -98,8 +98,9 @@ NGMI - Not Gonna Make It
 
 Both of these are pretty good for finding about new coins.
 
-[CoinBureau](https://www.youtube.com/c/CoinBureau/videos?view=0&sort=p&flow=grid)
+[CoinBureau](https://www.youtube.com/c/CoinBureau/videos)
 
-[CryptosRus](https://www.youtube.com/c/CryptosRUs)
+[Coinsider](https://www.youtube.com/c/Coinsider/videos)
 
+[CryptosRus](https://www.youtube.com/c/CryptosRUs/videos)
 
