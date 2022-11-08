@@ -76,6 +76,11 @@ Lots of similar videos if you search `TCAP` or `To catch a predator`
 
 [Sam Kinison first apperance on letterman]( https://www.youtube.com/watch?v=m_VURr6jnWQ)
 
+[Interview with 109 year old veteran](https://www.youtube.com/watch?v=BXyfCGDnuWs)
+
+Quote from the video above: "If it's your time to go, the bullet is going to hit you. If it's not your time to go the bullets going over your head, it's not going to kill you." - Richard Overton
+
+
 Philosophy:
 
 [Alan Watts - Life is like music](https://www.youtube.com/watch?v=ERbvKrH-GC4)

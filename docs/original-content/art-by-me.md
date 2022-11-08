@@ -18,8 +18,7 @@ Matrix:
 Hyperspace Modalities p2
 ![Hyperspace Modalities p2](../../static/img/original-content/hyperspace-modalities-p2.png)
 
-Hyperspace Modalities p4
-![Hyperspace Modalities p4](../../static/img/original-content/hyperspace-modalities-p4.png)
+
 
 ### More coming soon
 
