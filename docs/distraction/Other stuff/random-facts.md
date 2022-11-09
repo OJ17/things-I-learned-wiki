@@ -19,3 +19,5 @@ can process around 40 of them consciously (Timothy Wilson, Strangers to ourselve
 
 * The word Depression is from the latin word for `deprimere` meaning `to press down`
 
+* the word democracy is greek.The word literally means `people power`: Demos + Kratia = people + power
+

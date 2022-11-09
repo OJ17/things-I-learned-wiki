@@ -14,7 +14,7 @@ sidebar_position: 6
 [Death of Gareth Williams](https://en.wikipedia.org/wiki/Death_of_Gareth_Williams)
 / [Death of Gareth Williams - video](https://www.youtube.com/watch?v=ij7FqNh5gnQ)
 
-[Teen kills four people in car crash whilst drunk driving and gets off with 10 years probation due to 'Affluenza' defence.](https://en.wikipedia.org/wiki/Ethan_Couch)
+[Killed by a rich kid](https://en.wikipedia.org/wiki/Ethan_Couch)
 
 [Jonestown massacre - a cult with over 900 dead](https://en.wikipedia.org/wiki/Jonestown)
 
@@ -30,4 +30,8 @@ sidebar_position: 6
 [Heaven's gate cult](https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group))
 
 [Yuba County five](https://en.wikipedia.org/wiki/Yuba_County_Five)
+
+
+
+
 

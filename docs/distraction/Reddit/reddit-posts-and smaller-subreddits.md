@@ -44,7 +44,7 @@ sidebar_position: 6
 
 [ThewKnew](https://www.reddit.com/r/theyknew/top/?t=year)
 
-### cat Subreddits
+### Cat Subreddits
 
 [cats](https://www.reddit.com/r/cats/top/?t=all)
 
