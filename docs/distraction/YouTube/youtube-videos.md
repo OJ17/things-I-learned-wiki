@@ -30,6 +30,9 @@ Science:
 
 [The man who accidentally killed the most people in history](https://www.youtube.com/watch?v=IV3dnLzthDA)
 
+Worth watching from the timestamp linked around 10:04 - 13:00 or so in particular.
+[Brian Cox Lecture - GCSE Science brought down to Earth](https://youtu.be/enSXh4YY9Ws?t=604)
+
 
 Random videos:
 
