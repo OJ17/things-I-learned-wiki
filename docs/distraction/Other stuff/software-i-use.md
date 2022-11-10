@@ -43,6 +43,8 @@ sidebar_position: 6
 
 [Proton Mail](https://proton.me/mail)
 
+[Forest app](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_GB&gl=US)
+
 [Savings Tracker](https://play.google.com/store/apps/details?id=com.longnguyen.savingstracker&hl=en_GB&gl=US)
 
 [Thing Counter](https://play.google.com/store/apps/details?id=de.sleak.thingcounter&hl=en_GB&gl=US)
@@ -52,7 +54,7 @@ sidebar_position: 6
 
 [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=en_GB&gl=US)
 
-[NovaLauncher prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_GB&gl=US)
+[Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en_GB&gl=US)
 
 ## Laptop apps:
 
