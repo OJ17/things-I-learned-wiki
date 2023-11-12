@@ -28,6 +28,8 @@ sidebar_position: 6
 
 [MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
 
+[NatureIsFuckingLit](https://www.reddit.com/r/NatureIsFuckingLit/top/?t=all)
+
 [ntbdbiwdfta](https://www.reddit.com/r/ntbdbiwdfta/top/?t=all)
 
 [scary](https://www.reddit.com/r/scary/top/?t=all)
@@ -42,7 +44,7 @@ sidebar_position: 6
 
 [ThewKnew](https://www.reddit.com/r/theyknew/top/?t=year)
 
-### cat Subreddits
+### Cat Subreddits
 
 [cats](https://www.reddit.com/r/cats/top/?t=all)
 
@@ -52,6 +54,7 @@ sidebar_position: 6
 
 [StartledCats](https://www.reddit.com/r/StartledCats/top/?t=all)
 
+[curledFeetsies](https://www.reddit.com/r/curledfeetsies/top/?t=year)
 
 
 

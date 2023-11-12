@@ -46,3 +46,7 @@ sidebar_position: 6
 
 ![T.S eliot](../../../static/img/quotes/everything-is-different.jpg)
 
+![Neo path](../../../static/img/quotes/matrix-path.png)
+You know that path neo, and it’s not where you want to be. [YouTube Link](https://www.youtube.com/watch?v=ed8CTu3FOZA)
+
+

@@ -4,31 +4,40 @@ sidebar_position: 6
 
 # Procrastination
 
-### Summary:
+## Summary:
 
-For me there is one fundamental principle here. That of not giving in to your impulses.
-
-
+`n.b. This page is very much a work in progress as I work to develop a more in depth explanation.`
 
 
+### Procrastionation is an emotion-regulation problem:
 
-What you don't feed will die. So how do you stop feeding it? This is where you use technology to your benefit. 
-To make the technology work with you and not against you. This is not about rejecting 
-technology, it is about using it in a way that takes you towards, and not away from your goals.
+Tim Pychyl who has a PhD in procrastination research says:
+
+`“It’s all about our feelings,” Pychyl says. “Procrastination is the misregulation of emotion. We think that by putting things off, we’re going to feel better.”
+
+and that:
+
+“Procrastination is an emotion-regulation problem. It’s not a time management problem. It’s about really dealing with our feelings.”
+
+“It’s not a matter about feeling like it, no one said you have to wait until you feel like it,” 
+Pychyl says. “You hear people say: ‘I don’t want to do it’, but here is the whole point . . . what does wanting have to do with it?”
+
+### A strategy to change
+
+`Good intentions never work, you need good mechanisms to make anything happen.` - Jeff Bezos
+
+In a sense procrastination is a somewhat personal thing. In my case I didn't enjoy the work I was doing 
+had a sleep disorder, a bad mindset, and fairly problematic technology addiction.
 
 
+### Willpower is not enough (for most people)
 
-For me, I was dealing with `technology addiction` and you can read about that section there for suggestions.  about how to avoid it.
 
-The other aspect is about understanding why you are wasting time. 
-
-A `dopamine detox` is worth considering. But essentially this may not be about dopamine, but about 
-refusing to spend time on low value activities.
 
 
 ### Wiki:
 
-
+[Procrastination](https://en.wikipedia.org/wiki/Procrastination)
 
 ### Quotes:
 
@@ -49,3 +58,7 @@ https://www.youtube.com/watch?v=4x7MkLDGnu8)
 
 [Tim Pychyl on Procrastination](
 https://omny.fm/shows/the-one-you-feed/tim-pychyl-on-procrastination)
+
+## Articles:
+
+[Procrastination problem](https://newsroom.carleton.ca/story/procrastination-problem-tim-pychyl/?utm_source=Homepage&utm_medium=Spotlight)

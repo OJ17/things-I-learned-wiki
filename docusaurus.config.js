@@ -40,7 +40,7 @@ const config = {
         title: 'Things I learned',
         logo: {
           alt: 'Things I learned logo',
-          src: 'img/if-logo.png',
+          src: 'img/logos/if-logo.png',
         },
         items: [
           {

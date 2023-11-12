@@ -67,6 +67,7 @@ The Legend of Zelda: Breath of the Wild (2017)
 GTA: San Andreas, GTA 4, GTA V (unsure which one is best)
 Horizon: Zero Dawn (2017)
 Ghost of Tsushima (2020)
+Omori (2020)
 Bloodborne (2015) + 
 Basically any FromSoftware game from Dark Souls onwards.
 Various Super mario games (incl. Super mario 3, Super mario Galaxy, paper, Odyssey)

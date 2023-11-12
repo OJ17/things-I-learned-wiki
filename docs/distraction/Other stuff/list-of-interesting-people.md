@@ -60,6 +60,7 @@ Sun Tzu
 St Augustine
 Thomas Hobbes
 Will Kymlicka
+William McAskill
 ```
 
 ### Physicists:
@@ -219,6 +220,7 @@ Mihaly Csikszentmihalyi
 Naomi Klein 
 Noam Chomsky
 Slavoj Zizek
+Thicht Nhat Hahn
 ```
 
 ### Economists:
@@ -312,6 +314,8 @@ Ross Ulbricht (Silk Road Creator)
 Russell Barkely (ADHD expert)
 Steven Patrick Morrisey (Singer)
 Stanley Kubrick (Filmmaker)
+Jocko Willink (Former Navy Seal and Author)
+David Goggins (Former Navy Seal and Author)
 ```
 
 ### Some people I dislike the ideas of:

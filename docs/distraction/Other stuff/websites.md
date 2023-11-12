@@ -50,7 +50,22 @@ Good summary of effective supplements:
 
 [Examine](https://examine.com/)
 
+Good free books:
 
+[Gutenberg](https://www.gutenberg.org/)
+
+A funny and useful slang dictionary:
+
+[Urban Dictionary](https://www.urbandictionary.com/)
+
+
+Free online courses:
+
+[Coursera](https://www.coursera.org/)
+
+[edx](https://www.edx.org/)
+
+[MIT openware](https://ocw.mit.edu/)
 
 
 

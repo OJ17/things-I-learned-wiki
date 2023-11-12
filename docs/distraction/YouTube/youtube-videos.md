@@ -12,6 +12,8 @@ Psychology:
 
 [Andrew Huberman - The power of your expectations](https://www.youtube.com/watch?v=IewbT1ZdhEA)
 
+[Erling Haaland on his mindset](https://www.youtube.com/watch?v=VPCxYg7W6gI)
+
 Technology:
 
 [Meta Keynote - Introduction to the metaverse](https://www.youtube.com/watch?v=Uvufun6xer8)
@@ -28,6 +30,8 @@ Science:
 
 [The man who accidentally killed the most people in history](https://www.youtube.com/watch?v=IV3dnLzthDA)
 
+Worth watching from the timestamp linked around 10:04 - 13:00 or so in particular.
+[Brian Cox Lecture - GCSE Science brought down to Earth](https://youtu.be/enSXh4YY9Ws?t=604)
 
 
 Random videos:
@@ -72,6 +76,13 @@ Lots of similar videos if you search `TCAP` or `To catch a predator`
 [15 most beautiful caves](https://www.youtube.com/watch?v=gMUvVCCeLIM)
 
 [Fibre Optic cables, how do they work](https://www.youtube.com/watch?v=0MwMkBET_5I)
+
+[Sam Kinison first apperance on letterman]( https://www.youtube.com/watch?v=m_VURr6jnWQ)
+
+[Interview with 109 year old veteran](https://www.youtube.com/watch?v=BXyfCGDnuWs)
+
+Quote from the video above: "If it's your time to go, the bullet is going to hit you. If it's not your time to go the bullets going over your head, it's not going to kill you." - Richard Overton
+
 
 Philosophy:
 

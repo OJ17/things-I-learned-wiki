@@ -81,6 +81,31 @@ L.P. Hartley
 
 `I know of no other way of dealing with a great task than that of play` - Nietzsche
 
+`Everyone sees what you appear to be, few experience what you really are.` - Niccolo Machiavelli
+
+`The more sand has escaped from the hourglass of our life, the clearer we should see through it. by Philosiblog on 4 February 2012 in adaptation, flexibility, improve, judgement, persistence, service The more sand has escaped from the hourglass of our life, the clearer we should see through it.` – Niccolo Machiavelli
+
+`If you’re suffering you’re thinking` - Sam Harris
+
+`We are all in the gutter, but some of us are looking at the stars.` ― Oscar Wilde
+
+`I always wanted to be somebody, but now I realize I should have been more specific.` - Lily Tomlin
+
+`A great many people think they are thinking when they are merely rearranging their prejudices.` – William James
+
+`“Nothing can be understood except in the context of the whole“` - (Hegel misquote by Jose Mourinho)
+
+`All truly great thoughts are conceieved whilst walking` - Nietzsche
+
+`The dictionary is the only place that success comes before work. work is the key to success, and hard work can help you accomplish anything.` ― Vince Lombardi
+
+`"[I said to myself] You're going to die never even trying to reach your true potential. How does that feel like?"` - David Goggins
+
+`Laziness is nothing more than the habit of resting before you get tired.` ― Jules Renard
+
+`The adult brain doesn’t want to change the algorithms it learned in childhood.` - Andrew Huberman
+
+
 
 
 ### Links:

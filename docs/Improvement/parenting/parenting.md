@@ -15,6 +15,9 @@ Reliable father figure increases IQ ([google results](https://www.google.com/sea
 Praise can be harmful to children. Better to praise trying hard, 
 rather than praise intelligence. (Carol Dweck)
 
+[Poor nutrition in school years may be responsibel for 20cm height gap](https://www.imperial.ac.uk/news/207893/poor-nutrition-school-years-have-created/)
+
+n
 
 ### Wiki:
 

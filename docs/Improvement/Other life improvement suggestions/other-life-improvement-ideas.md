@@ -30,6 +30,9 @@ sidebar_position: 6
 * Chew often (to strengthen Jaw muscles)
 
 
+* Chewing gum MAY have cognitive benefits (need to research more). i.e. [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449949/)
+
+
 * Everybody is fighting something
 
 
@@ -38,6 +41,9 @@ sidebar_position: 6
 
 * "hourly awareness chimes" / a temporary process of setting an alarm
 every hour, checking that you are productive or not
+
+
+* The body is designed to be upright and to be in motion. If you sit upright whilst working you will have more energy.
 
 
 * Dopamine Detox (i.e. be bored for a while)
@@ -68,7 +74,16 @@ higher quality ones.
 * regularly use an isolation tank (sensory deprivation tank)
 
 
-* 
+* Try pre-cooked meals to save time (meal delivery services), or try something like [Huel](https://uk.huel.com/).
+
+
+* Buy a high quality ergonomic chair (i.e. steelcase or Herman Miller). This will easily pay for itself over time in terms of high productivity and less back ache.
+
+
+* Hypnosis (apparently there is some decent science behind it)
+
+
+* Laser Eye Surgery
 
 
 ### Small tips and tricks
@@ -79,6 +94,12 @@ I'm sure 99% of you know this stuff, but just in case you don't!
 
 
 * Don't eat for 4 hours before sleeping as it can interfere with sleep
+
+
+* keep your smartphone far away from you when going to bed. 
+ideally in a different room, but at least at the other side of the
+  room where it's not easy to reach it. This will be much 
+  easier with a physical alarm clock
 
 
 

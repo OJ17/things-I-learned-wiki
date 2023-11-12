@@ -38,15 +38,10 @@ Ripple (XRP)
 Very high risk, very high reward.
 ```
 Lukso (LXYe)
-MetisDao (METIS)
 ```
 
 Lukso:
 ![Lukso](../../../static/img/crypto/lukso.png)
-
-Metis:
-![Metis](../../../static/img/crypto/metis.jpeg)
-
 
 ## My current crypto assets by %:
 
@@ -60,11 +55,6 @@ I want to be a part of.
 
 Generally I prefer L1 proof-of-stake blockchains, and as you can see almost every coin I own fits that criteria. 
 MATIC and METIS are exceptions. MATIC is easily the biggest L2, and METIS is a longshot I'm happy to take a risk on.
-
-The only Proof-Of-Work chain I own is Kadena. Primarily because it's the only scalable Proof-of-work coin so the climate impact is LESS BAD 
-(Although still unreasonably bad), and the marketcap is very low
-so it has a huge potential in the next bull market. I don't like to support PoW coins due to climate concerns, but KDA has so much potential 
-at this price that it's hard to ignore.
 
 ![breakdown](../../../static/img/crypto/crypto-breakdown.svg)
 
@@ -98,8 +88,9 @@ NGMI - Not Gonna Make It
 
 Both of these are pretty good for finding about new coins.
 
-[CoinBureau](https://www.youtube.com/c/CoinBureau/videos?view=0&sort=p&flow=grid)
+[CoinBureau](https://www.youtube.com/c/CoinBureau/videos)
 
-[CryptosRus](https://www.youtube.com/c/CryptosRUs)
+[Coinsider](https://www.youtube.com/c/Coinsider/videos)
 
+[CryptosRus](https://www.youtube.com/c/CryptosRUs/videos)
 
