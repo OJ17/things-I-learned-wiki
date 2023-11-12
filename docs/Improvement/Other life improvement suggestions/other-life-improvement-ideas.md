@@ -96,6 +96,12 @@ I'm sure 99% of you know this stuff, but just in case you don't!
 * Don't eat for 4 hours before sleeping as it can interfere with sleep
 
 
+* keep your smartphone far away from you when going to bed. 
+ideally in a different room, but at least at the other side of the
+  room where it's not easy to reach it. This will be much 
+  easier with a physical alarm clock
+
+
 
 
 

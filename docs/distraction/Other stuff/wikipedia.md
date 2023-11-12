@@ -8,13 +8,6 @@ Wikipedia:
 
 [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
-[List of best selling manga](https://en.wikipedia.org/wiki/List_of_best-selling_manga)
-
-[List of unsolved deaths](https://en.wikipedia.org/wiki/List_of_unsolved_deaths)
-
-[List of unusual deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
-
-[List of Heaviest Sumo Wrestlers](https://en.wikipedia.org/wiki/List_of_the_heaviest_sumo_wrestlers)
 
 
 
